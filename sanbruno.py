@@ -25,7 +25,6 @@ class Config:
     """Configuration class for easy management of settings."""
     VENUE_DATA_PATH = "Final_Dataset.csv"
     CHAT_HISTORY_DB_PATH = "chat_history.json"
-    # ✅ CHANGED: Radius updated to miles
     NEARBY_RADIUS_MILES = 3.1 
     
     # Model & API Settings
@@ -95,11 +94,9 @@ def _is_in_san_bruno(lat: float, lon: float) -> bool:
     return (bounds["south"] <= lat <= bounds["north"]) and (bounds["west"] <= lon <= bounds["east"])
 
 def _haversine_in_miles(lat1, lon1, lat2, lon2):
-    """Calculates distance between two points on Earth in miles."""
     lat1, lon1, lat2, lon2 = map(radians, [lat1, lon1, lat2, lon2])
     dlat, dlon = lat2 - lat1, lon2 - lon1
     a = sin(dlat / 2)**2 + cos(lat1) * cos(lat2) * sin(dlon / 2)**2
-    # ✅ CHANGED: Use Earth's radius in miles (3956)
     return 3956 * 2 * asin(sqrt(a))
 
 def _split_steps(prompt: str):
@@ -111,6 +108,7 @@ def _split_steps(prompt: str):
     return [prompt.strip()]
 
 def _recommend_venues(prompt: str, lat: float, lon: float):
+    # (This function remains unchanged from the previous version)
     steps = _split_steps(prompt)
     recommendations = []
     for step in steps:
@@ -123,7 +121,6 @@ def _recommend_venues(prompt: str, lat: float, lon: float):
                 return_properties=["venue_name", "category", "address", "location"]
             )
             venues = [obj.properties for obj in response.objects]
-
         except Exception as e:
             print(f"❌ WEAVIATE QUERY FAILED for step '{step}': {e}")
             venues = []
@@ -134,8 +131,6 @@ def _recommend_venues(prompt: str, lat: float, lon: float):
             venues_df["latitude"] = venues_df["location"].apply(lambda loc: loc.latitude if loc else None)
             venues_df["longitude"] = venues_df["location"].apply(lambda loc: loc.longitude if loc else None)
             venues_df.dropna(subset=["latitude", "longitude"], inplace=True)
-            
-            # ✅ CHANGED: Calculate and filter by distance_miles
             venues_df["distance_miles"] = venues_df.apply(lambda r: _haversine_in_miles(lat, lon, r["latitude"], r["longitude"]), axis=1)
             nearby_venues = venues_df[venues_df["distance_miles"] <= cfg.NEARBY_RADIUS_MILES]
 
@@ -144,22 +139,19 @@ def _recommend_venues(prompt: str, lat: float, lon: float):
             category_scores = util.cos_sim(query_tensor, category_embeddings)[0]
             best_cat_idx = torch.argmax(category_scores).item()
             best_category = unique_categories[best_cat_idx]
-            
             fallback_df = df[df['category_list'].apply(lambda tags: best_category in tags)].copy()
-            
-            if not fallback_df.empty:
-                if "latitude" in fallback_df.columns and "longitude" in fallback_df.columns:
-                    # ✅ CHANGED: Calculate distance_miles for fallback
-                    fallback_df["distance_miles"] = fallback_df.apply(lambda r: _haversine_in_miles(lat, lon, r.get("latitude", 0), r.get("longitude", 0)), axis=1)
-                    nearby_venues = fallback_df.sort_values(by="distance_miles").head(3)
+            if not fallback_df.empty and "latitude" in fallback_df.columns and "longitude" in fallback_df.columns:
+                fallback_df["distance_miles"] = fallback_df.apply(lambda r: _haversine_in_miles(lat, lon, r.get("latitude", 0), r.get("longitude", 0)), axis=1)
+                nearby_venues = fallback_df.sort_values(by="distance_miles").head(3)
         
         nearby_venues = nearby_venues.fillna("")
         recommendations.append({ "query": step, "venues": nearby_venues.to_dict(orient="records") })
     return recommendations
 
 def _is_detail_query(message: str, plan: list) -> bool:
+    # (This function remains unchanged)
     if not plan: return False
-    prompt = f'A user has this travel plan: {json.dumps(plan)}. Their latest message is: "{message}". Is this message asking for details about the *existing* plan (e.g., "how far is it?")? Answer ONLY with "YES" or "NO".'
+    prompt = f'A user has this travel plan: {json.dumps(plan)}. Their latest message is: "{message}". Is this message asking for details about the *existing* plan? Answer ONLY with "YES" or "NO".'
     try:
         headers = {"Authorization": f"Bearer {cfg.GROQ_API_KEY}"}
         response = requests.post(
@@ -173,6 +165,33 @@ def _is_detail_query(message: str, plan: list) -> bool:
         return "YES" in reply
     except Exception as e:
         print(f"❌ Detail Query Check failed: {e}")
+        return False
+
+# ✅ NEW HELPER FUNCTION
+def _is_query_too_broad(message: str) -> bool:
+    """Uses an LLM to check if a user's query is too vague for recommendations."""
+    prompt = f"""
+    You are an AI assistant that determines if a user's request for a recommendation is too broad or specific enough.
+    A specific request mentions a type of place, food, or activity (e.g., "sushi," "a park with a playground," "a quiet cafe").
+    A broad request is a general statement of need (e.g., "I'm hungry," "I'm bored," "what should I do?").
+
+    Analyze the user's message: "{message}"
+
+    Is this request too broad to make a specific recommendation? Answer ONLY with "YES" or "NO".
+    """
+    try:
+        headers = {"Authorization": f"Bearer {cfg.GROQ_API_KEY}"}
+        response = requests.post(
+            cfg.GROQ_API_URL, headers=headers,
+            json={"model": cfg.LLM_MODEL, "messages": [{"role": "system", "content": prompt}], "temperature": 0.0},
+            timeout=10
+        )
+        response.raise_for_status()
+        reply = response.json().get("choices", [{}])[0].get("message", {}).get("content", "NO").strip().upper()
+        print(f"🧠 Broad Query Check: {reply}")
+        return "YES" in reply
+    except Exception as e:
+        print(f"❌ Broad Query Check failed: {e}")
         return False
 
 # --- API Endpoints ---
@@ -199,9 +218,15 @@ def chat(input: ChatInput):
 
     context_for_llm = ""
     
+    # ✅ REVISED LOGIC: Add a check for broad queries
     if _is_detail_query(input.message, current_plan):
         print("➡️ Handling: DETAIL query")
         context_for_llm = "Use the following data from the current plan to answer the user's question. The distances are in miles.\n" + json.dumps(current_plan, indent=2)
+    
+    elif _is_query_too_broad(input.message):
+        print("➡️ Handling: BROAD query")
+        context_for_llm = "You are a helpful assistant. The user's request is too vague to make a recommendation. Your task is to ask a clarifying question to help them narrow down their options. For example, if they say 'I'm hungry,' ask 'What kind of food are you in the mood for?'. If they say 'I'm bored,' ask 'Are you looking for an indoor or outdoor activity?'"
+
     else:
         print("➡️ Handling: CREATE/UPDATE query")
         recommendations = _recommend_venues(input.message, target_lat, target_lon)
@@ -214,12 +239,10 @@ def chat(input: ChatInput):
                     top_venue = rec["venues"][0]
                     new_plan.append({
                         "step_query": rec["query"], "venue_name": top_venue.get("venue_name"),
-                        "category": top_venue.get("category"),
-                        # ✅ CHANGED: Store distance_miles in the plan
+                        "category": top_venue.get("category"), 
                         "distance_miles": round(top_venue.get("distance_miles", 0), 2)
                     })
             session_data["plan"] = new_plan
-            # ✅ CHANGED: Update context prompt to mention miles and forbid Markdown
             context_for_llm = (
                 "You have just created a new itinerary. Summarize it for the user in a friendly, step-by-step list."
                 "Mention the venue name for each step and its distance in miles.\n"
@@ -230,7 +253,6 @@ def chat(input: ChatInput):
             print("➡️ Handling: No Venues Found")
             context_for_llm = f"""
             Your ONLY task is to inform the user that their search returned no results.
-            Do NOT suggest any alternatives. Do NOT use any information from the previous conversation.
             The user's original failed request was: '{input.message}'.
             Respond ONLY with a message similar to this template: "I'm sorry, I couldn't find any local venues matching '[user's request]' in my database. Please try a different search."
             """
@@ -244,7 +266,7 @@ def chat(input: ChatInput):
         headers = {"Authorization": f"Bearer {cfg.GROQ_API_KEY}"}
         response = requests.post(
             cfg.GROQ_API_URL, headers=headers,
-            json={"model": cfg.LLM_MODEL, "messages": messages_for_llm, "temperature": 0.1},
+            json={"model": cfg.LLM_MODEL, "messages": messages_for_llm, "temperature": 0.7}, # Temperature can be higher for conversational replies
             timeout=60
         )
         response.raise_for_status()
