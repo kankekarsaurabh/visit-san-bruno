@@ -1,0 +1,614 @@
+venue_id,venue_name,latitude,longitude,rating,review_count,address,phone,category
+1,7-Eleven,37.63101975,-122.4370076,3.8,13,"2020 Rollingwood San Bruno, CA 94066",16508715191,"coffee, convenience store, snacks, drinks, late night, Food, San Bruno"
+2,A One Kitchen & Bar,37.627862,-122.411562,4.4,202,"677 San Mateo Ave San Bruno, CA 94066",16505884040,"bars, food,eventspaces, restaurants, seafood, smoothies, socialclubs, Chinese food, noodle soup, casual dining"
+3,A&W Restaurant,37.6058491,-122.3962883,2.3,77,"950 El Camino Real Millbrae, CA 94030",16505899860,"burgers, hotdog"
+4,AC Hotel San Francisco Airport/Oyster Point Waterfront,37.664513,-122.395525,3.8,155,"1333 Veterans Blvd South San Francisco, CA 94080",16507429211,venues
+5,AC Waterfront Lounge Restaurant,37.664513,-122.395525,4.1,28,"1333 Veterans Blvd South San Francisco, CA 94080",16507429211,"bars, breakfast_brunch, cocktailbars, newamerican"
+6,Ai Grill,37.612864,-122.404316,0,0,"1621 El Camino Real Millbrae, CA 94030",16506605606,bbq
+7,Aji Ichi Japanese Restaurant,37.628211,-122.411463,3.9,478,"695 San Mateo Ave San Bruno, CA 94066",16509522898," livemusic,party, restaurants, sushi, sashimi, Japanese food, family-friendly, San Bruno"
+8,Akagi Restaurant,37.6273469,-122.4163692,3.7,588,"713 Camino Plz San Bruno, CA 94066",16509524141,"japanese food, sushi, Japanese cuisine, ramen, bento, neighborhood spot, San Bruno"
+9,Aloft San Francisco Airport,37.6029825,-122.3778467,3.2,491,"401 E Millbrae Ave Millbrae, CA 94030",16504435500,venues
+10,Alta Loma Park,37.6615,-122.448023,4.3,20,"450 Camaritas Ave South San Francisco, CA 94080",16192655243,parks
+11,Amami San Sushi,37.65552565,-122.4099503,3.8,956,"310 Linden Ave South San Francisco, CA 94080",16508731084,"japanese, sushi"
+12,Amami Sushi,37.61486,-122.40642,3.7,1440,"1789 El Camino Real San Bruno, CA 94066",16508722218,"japanese, sushi, sushi bar, Japanese food, nigiri, casual dining, San Bruno"
+13,Amami Sushi Bistro,37.62017,-122.41025,4.2,715,"312 El Camino Real San Bruno, CA 94066",16508696088,"restaurants, seafood, sushi, sushi bistro, fresh sashimi, modern Japanese, San Bruno"
+14,American Legion Post 409,37.629444,-122.411666,4.3,6,"757 San Mateo Ave San Bruno, CA 94066",16505893102,"venues, veterans club, community events, bar, social gatherings, San Bruno, Events, Nightlife"
+15,Amoura Restaurant,37.65955099999861,-122.4089618,4.4,482,"713 Linden Ave South San Francisco, CA 94080",16507546891,"bars, cocktailbars, mediterranean, nightlife"
+16,Andiamo In Banca,37.65535196920688,-122.410207,4.2,328,"301 Linden Ave South San Francisco, CA 94080",16507458811,"bars, desserts, italian, nightlife"
+17,Angeline's Violin Studio,37.63729,-122.42545,5,9,"San Bruno/Millbrae, CA 94066",16502910077,"arts, theater, violin lessons, music school, private instruction, kids music, San Bruno, Culture, Family Fun"
+18,Antigua Coffee Shop,37.65572,-122.41404,4.2,569,"437A Grand Ave South San Francisco, CA 94080",16507416261,"breakfast_brunch, coffee, sandwiches"
+19,Antojitos Mexicanos Jovanni,37.607743914799954,-122.3974599,4.6,115,"1100 El Camino Real Millbrae, CA 94030",16508654065,mexican
+20,Any Occasion,37.625013,-122.431076,5,80,"San Francisco, CA 94066",14157171199,wedding_planning
+21,Aqua Club Dessert & Beverage,37.62256,-122.41094,4.3,1041,"440 San Mateo Ave Ste N1 San Bruno, CA 94066",16503822782,"bubbletea, desserts, juicebars, smoothies, Taiwanese desserts, bubble tea, shaved ice, cozy cafe, San Bruno"
+23,Araujo's Restaurant,37.62983,-122.41465,2.9,354,"404 W San Bruno Ave San Bruno, CA 94066",16505884257,"mexican, Mexican food, burritos, family-run restaurant, casual, San Bruno"
+24,Art365 Culture Learning Center,37.6018146,-122.391735,5,3,"365 El Camino Real Millbrae, CA 94030",14158029524,artclasses
+25,Arthur Murray Dance Studio - Millbrae,37.597593,-122.3858838,4.7,39,"120 S El Camino Real Ste 7 Millbrae, CA 94030",16502392604,fitness
+26,Artichoke Joe's Casino,37.6277817,-122.41085,3,153,"659 Huntington Ave San Bruno, CA 94066",16505898812,"arts, casino, casinos, nightlife, events, cardroom, poker tables, casino, gambling, entertainment, San Bruno"
+27,Artists On Wheels,37.64996557,-122.4312446,5,10,"611 W Orange Ave South San Francisco, CA 94080",16505888619,"artclasses, arts"
+28,AT Romance Bridal Studio,37.62965,-122.41512,4.9,111,"482 San Bruno Ave W San Bruno, CA 94066",14156139991,"wedding planning, bridal gowns, shopping, wedding dresses, formal wear, bridal boutique, San Bruno"
+29,Atlas Pizza Parlor,37.62715,-122.41161,4.3,715,"637 San Mateo Ave San Bruno, CA 94066",16505885888,"eventspaces, food, livemusic, party, pizza, restaurants, smoothies, socialclubs, sportsclubs, italian, casual dining, family-friendly, local pizzeria, San Bruno"
+30,Auntie Em's Fine Foods & Pastries,37.6566246,-122.4371454,3.8,321,"1127 El Camino Real South San Francisco, CA 94080",16505886068,bakeries
+31,Avalon Park,37.6406,-122.43395,4,3,"Dorado Way And Alta Vista Dr South San Francisco, CA 94080",16508293800,"parks, playgrounds"
+32,B.C.D. Art and Music Studio,37.6188,-122.40998,3,2,"249 El Camino Real Ste 5 San Bruno, CA 94066",16502090859,"art classes, music lessons, creative learning, kids and teens, culture, family fun, San Bruno"
+33,Bagel Street Cafe Millbrae,37.60318,-122.39494,3.7,291,"537 Broadway Millbrae, CA 94030",16506529700,"breakfast_brunch, sandwiches"
+34,Bambu,37.60035,-122.3901,3.9,197,"203 El Camino Real Millbrae, CA 94030",16502318217,"bubbletea, juicebars, vietnamese"
+35,Barnes & Noble,37.63581748,-122.419015,3.4,204,"1150 El Camino Real Ste 277 San Bruno, CA 94066",16508712530,"coffee, bookstore, books, magazines, gifts, national chain, shopping, culture, San Bruno"
+36,Bashamichi Sushi and Bar,37.61022,-122.4007,4.2,273,"1390 El Camino Real Millbrae, CA 94030",16507421003,"japanese, sushi"
+37,Baskin Robbins,37.626707,-122.42572,3.1,134,"851 Cherry Ave Ste 9 San Bruno, CA 94066",16505883960,"icecream, ice cream, frozen treats, dessert shop, family friendly, San Bruno"
+38,Basque Cultural Center,37.65373,-122.4203,3.8,548,"599 Railroad Ave South San Francisco, CA 94080",16505838091,"arts, culturalcenter"
+39,Bay Area Bars Calisthenics,37.64101127040056,-122.412529,5,30,"220 S Linden Ave Unit E South San Francisco, CA 94080",14153172875,fitness
+40,Bay Area Entrepreneur Center,37.623184,-122.410949,4.5,4,"458 San Mateo Ave San Bruno, CA 94066",16507387994,"venues, events, culture, entrepreneurship, coworking, business support, SFSU partner, San Bruno"
+41,Bay Image Karaoke,37.6276207,-122.4256058,4.8,11,"San Bruno, CA 94066",16502438198,"karaoke, party, private rooms, nightlife, singing lounge, San Bruno, nightlife"
+43,Bay Trail,37.65879822,-122.4231186,4.4,14,"Oyster Point Genentech - Sierra Point South San Francisco, CA 94080",,hiking
+44,Bayfront Park,37.60482791,-122.3771293,4.4,57,"Millbrae Ave And Bayshore Hwy Millbrae, CA 94030",,parks
+45,Bayhill Vietnamese Bistro,37.626697,-122.426629,3.6,224,"851 Cherry Ave San Bruno, CA 94066",16505889662,"vietnamese, Vietnamese food, pho, rice plates, family-owned, San Bruno"
+46,Bayside Manor Park,37.6039144,-122.3876538,2,2,"End Of Lerida Ave Millbrae, CA 94030",,parks
+47,bb.q Chicken San Bruno,37.62575,-122.426,4.1,168,"851 Cherry Ave #16 San Bruno, CA 94066",16506364120,"korean, Korean fried chicken, casual dining, flavorful wings, San Bruno, food"
+48,BeauTea,37.65527,-122.41202,3.9,263,"375 Grand Ave South San Francisco, CA 94080",16508738183,"bubbletea, icecream, juicebars"
+52,Ben Tre Vietnamese Homestyle Cuisine,37.65578783,-122.4122281,3.9,2279,"398 Grand Ave South San Francisco, CA 94080",16509522243,vietnamese
+53,Beto‚Äôs Burgers,37.62618,-122.41449,0,0,"650 El Camino Real San Bruno, CA 94066",14153256396,burgers
+54,Beyond The Border,37.64467,-122.41338,4.3,90,"127 S Linden Ave South San Francisco, CA 94080",16508989069,mexican
+56,Big Joe's - San Bruno,37.62417570846922,-122.4113889,4,251,"487 San Mateo Ave San Bruno, CA 94066",16508719502,"burgers, seafood, local favorite, casual dining, quick bites, San Bruno"
+57,Big Mouth Burgers,37.62658071,-122.427137,3.9,767,"851 Cherry Ave Ste 19 San Bruno, CA 94066",16508717636,"burgers, eventspaces, livemusic, party, restaurants, sandwiches, smoothies, socialclubs, sportsclubs, gourmet burgers, craft beer, trendy spot, family-friendly, San Bruno"
+60,Bimbo Bakeries USA,37.647312,-122.421829,4.7,24,"264 S Spruce Ave South San Francisco, CA 94080",16505835828,bakeries
+63,Binka Bites,37.64304695093125,-122.4264268,4.5,365,"304 Alida Way South San Francisco, CA 94080",16507879010,"bakeries, desserts"
+64,Binka Bites - Millbrae,37.604712,-122.397278,4.1,97,"979 Broadway Ste 106 Millbrae, CA 94030",16502968215,"coffee, desserts"
+70,BJ's Restaurant & Brewhouse,37.635570185433245,-122.4186327,2.6,2892,"1140 El Camino Real Ste 271 San Bruno, CA 94066",16502434530,"brewpubs, pizza, restaurants, American food, beer selection, group dining, nightlife San Bruno"
+72,Blossom Tea & Snacks,37.655058,-122.408653,1,1,"202 Grand Ave South San Francisco, CA 94080",16503798043,bubbletea
+73,Bluegrain Sandwich Market,37.66261215716105,-122.3964005,4.9,25,"101 Oyster Point Blvd Ste 105 South San Francisco, CA 94080",,"breakfast_brunch, sandwiches"
+75,Boba Guys at Local Kitchens,37.62681361118622,-122.4255333,3.4,11,"851 Cherry Ave Ste 2 San Bruno, CA 94066",14159928206,"bubbletea, bubble tea, artisanal boba, tea drinks, popular chain, family fun, food, San Bruno"
+76,Bobcha SF,37.64628936215618,-122.4131058,3.8,172,"107 S. Linden Ave San Francisco, CA 94080",16692431558,korean
+77,Boiling BeiJing,37.627416,-122.411551,4.1,804,"649 San Mateo Ave San Bruno, CA 94066",16509523388,"chinese, livemusic, party, restaurants, Chinese hot pot, spicy broth, traditional Beijing cuisine, San Bruno"
+78,Bokeh Pictures,37.588768,-122.395294,0,0,"1130 Lake St Millbrae, CA 94030",,galleries
+80,Bonchon,37.645136,-122.4523187,3.4,876,"2278 Westborough Blvd Ste 208 South San Francisco, CA 94080",16506364192,korean
+82,Boys & Girls Club Paradise Valley,37.6637965,-122.4089438,3.5,4,"291 Hillside Blvd South San Francisco, CA 94080",16505832348,parks
+84,Bravo's Bakery,37.6235199,-122.4345779,4.4,5,"San Bruno, CA 94066",16505833367,"bakeries, Mexican bakery, pan dulce, sweet bread, cakes and pastries, San Bruno"
+86,Braz Burger,37.62715531478796,-122.4158761,4.2,11,"675 El Camino Real San Bruno, CA 94066",12092241997,"burgers, mexican, Brazilian-style burgers, fast casual, food, local eatery, San Bruno"
+88,Brentwood Park,37.63674819,-122.4331546,4.5,2,"425 Briarwood Dr South San Francisco, CA 94080",,parks
+89,Brew @ 382,37.6557142,-122.4119668,4.8,68,"386 Grand Ave South San Francisco, CA 94080",16509898096,"bars, nightlife"
+98,Brew Cha - South San Francisco,37.65483103743614,-122.4333511,4,108,"988 El Camnio Real Ste 4 South San Francisco, CA 94080",,"bubbletea, coffee"
+99,Brooks Falls,37.58035608,-122.476522,4,2,"600 Oddstad Blvd Pacifica, CA 94044",16503558289,hiking
+100,Brothers Cafe,37.6556734,-122.4119173,4.3,1225,"382 Grand Ave South San Francisco, CA 94080",16507631640,"breakfast_brunch, cafes, newamerican"
+101,Bruno's Gallery,37.6253351,-122.4110826,5,11,"540 San Mateo Ave San Bruno, CA 94066",16505888090,"arts, galleries, art gallery, local artists, visual art exhibits, culture, San Bruno"
+102,Buckeye Park,37.61515,-122.4322,2,2,"2351 Rosewood Dr San Bruno, CA 94066",,"parks, public park, green space, walking paths, family-friendly, San Bruno, Nature, Family Fun"
+103,Buddy V's Cake Slice,37.63938322,-122.4191428,0,0,"1270-1272 El Camino Real San Bruno, CA 94066",18888010253,"desserts, cake delivery, TV celebrity bakery, sweet treats, San Bruno, food"
+104,Bundow Boba,37.604703,-122.397259,4.3,28,"979 Broadway Ste 110 Millbrae, CA 94030",12099207502,"bubbletea, coffee, desserts"
+105,Burger King,37.63820453,-122.4200987,2.1,92,"1278 El Camino Real San Bruno, CA 94066",16505884069,"fast food, burgers, fries, national chain, drive-thru, San Bruno"
+106,Buri Buri Park,37.652611,-122.441292,4,26,"200 Arroyo Dr South San Francisco, CA 94080",,parks
+108,Cable Car Cafe,37.65583646,-122.4138918,3.7,327,"423 1/2 Grand Ave South San Francisco, CA 94080",16509529533,"breakfast_brunch, burgers, cafes"
+110,Cafe Bunn Mi,37.6552172,-122.4091786,4.1,467,"226 Grand Ave South San Francisco, CA 94080",16507458883,"sandwiches, vietnamese"
+111,Cafe Cinema At Century Theater,37.63733645,-122.4173098,5,1,"1188 El Camino Real San Bruno, CA 94066",,"cafes, theater cafe, movie snacks, coffee and concessions, food, events, San Bruno"
+112,Cafe De Casa,37.6640655,-122.3998725,4.4,507,"1165 Airport Blvd South San Francisco, CA 94080",16507631025,"cafes, gluten_free"
+113,Cafe Istanbul,37.60041746266832,-122.3817118,4.4,50,"360 Adrian Rd Millbrae, CA 94030",16506895605,mediterranean
+115,Cafe Orchid,37.5986199,-122.38819,3.4,272,"9B El Camino Real Millbrae, CA 94030",16506973988,chinese
+117,Cahill's Judo Academy,37.6271304,-122.4114205,5,29,"635 San Mateo Ave San Bruno, CA 94066",16505890724,"fitness, martial arts school, judo training, self-defense, youth classes, culture, San Bruno"
+118,Cajun Bowl - San Bruno,37.639357,-122.420921,4.1,239,"1230 El Camino Real D San Bruno, CA 94066",16506364550,"juicebars, seafood, Cajun seafood, spicy bowls, Southern cuisine, casual dining, San Bruno"
+121,Cake Walk,37.62485,-122.42681,5,1,"San Bruno, CA 94066",16505932253,"bakeries, cake shop, custom cakes, dessert boutique, San Bruno"
+122,Cakes By Ricky,37.62172043,-122.4147145,5,1,"490 Elm Ave San Bruno, CA 94066",16508788003,"bakeries, custom cakes, home bakery, celebration desserts, San Bruno"
+127,California Catering Company,37.666008,-122.4248962,4.3,18,"920 Stonegate Dr South San Francisco, CA 94080",16505890729,venues
+128,Camber,37.65595,-122.39142,4.7,11,"460 Forbes Blvd South San Francisco, CA 94080",,"bars, cocktailbars, nightlife"
+129,Camino Corner Restaurant,37.6160341,-122.4068078,3.9,414,"110 El Camino Real San Bruno, CA 94066",16505838782,"breakfast brunch, desserts, Filipino food, breakfast & lunch, homestyle cooking, San Bruno"
+131,CareFol Yoga,37.62513114972721,-122.4336077,5,1,"San Bruno, CA 94066",16509187871,"yoga, yoga classes, mindfulness, wellness studio, fitness, San Bruno, Outdoor Activities, Culture"
+133,Carl's Jr,37.62716298897241,-122.4256617,3.1,157,"899 Cherry Ave San Bruno, CA 94066",16505836467,"burgers, fast food, fries, drive-thru, national chain, San Bruno"
+134,Celia's Mexican Restaurant - San Bruno,37.617738,-122.409107,3.4,416,"201 El Camino Real San Bruno, CA 94066",16508778245,"bars, mexican, nightlife, Mexican restaurant, margaritas, family-friendly, traditional cuisine, San Bruno"
+135,Centennial Plaza,37.62365227756733,-122.410927,0,0,"470 San Mateo Ave San Bruno, CA 94066",,"parks, public plaza, gathering space, community events, San Bruno"
+137,Centennial Way Dog Park,37.65333091327369,-122.4297718,4.1,156,"35 W Orange Ave South San Francisco, CA 94080",16508293837,parks
+139,Centennial Way Park South,37.64267,-122.41986,0,0,"1435 Huntington Ave Ste 240 South San Francisco, CA 94080",,parks
+141,Centennial Way Trail,37.63970092,-122.418425,3.7,19,"1100 Huntington Ave San Bruno, CA 94066",,"hiking, walking trail, biking, outdoor recreation, nature path, San Bruno, Nature, Outdoor Activities"
+236,Central Park,37.60076494878549,-122.3996505,4.7,9,"478 Lincoln Cir Millbrae, CA 94030",16502592370,parks
+290,Century at Tanforan and XD,37.637948,-122.4177913,2.9,628,"1188 El Camino Real Fl 4 San Bruno, CA 94066",16505886052,"arts, venues, movie theater, blockbusters, reclining seats, cinema experience, San Bruno, family fun"
+296,Chajinel Home Care Services,37.653959,-122.409026,4.9,7,"208 Cypress Ave South San Francisco, CA 94080",16507416107,yoga
+300,Charles Gracie Jiu Jitsu Academy,37.62575,-122.426,5,4,"851 Cherry Ave Ste 17 San Bruno, CA 94066",16506364385,"fitness, jiu jitsu, martial arts academy, self-defense, youth training, San Bruno, culture"
+305,Charleys Cheesesteaks,37.63706237,-122.4173428,2.2,57,"1150 El Camino Real Ste 195 San Bruno, CA 94066",16506364232,"sandwiches, cheesesteaks, loaded fries, mall food, casual dining, San Bruno"
+509,Cheeze and Charm,37.626602,-122.417837,0,0,"San Bruno, CA 94066",16502670987,"desserts, charcuterie boards, cheese platters, party catering, local goods, San Bruno"
+510,Chef Wang Restaurant,37.60935018,-122.4001562,3.6,261,"1320 El Camino Real Millbrae, CA 94030",16505883648,chinese
+511,Cheung Hing Restaurant,37.6007772,-122.3905126,3.1,523,"245 El Camino Real Millbrae, CA 94030",16506523938,chinese
+512,Chevys Fresh Mex,37.665756782287154,-122.4530675,3.7,1385,"141 Hickey Blvd South San Francisco, CA 94080",16507551617,"bars, breakfast_brunch, mexican, nightlife"
+514,Chicken Pho You,37.600767,-122.391431,3.1,331,"292 Broadway Millbrae, CA 94030",16506928865,"chinese, vietnamese"
+516,Chico Marx,37.6667949,-122.3972332,4.4,46,"2 Tower Pl South San Francisco, CA 94080",16507319146,"bars, cocktailbars, nightlife"
+517,Chico's Pizza,37.654578,-122.408486,4.6,34,"113 Grand Ave South San Francisco, CA 94080",16503920398,"pizza, sandwiches"
+518,Chidos Pizza,37.655519,-122.42207,5,2,"South San Francisco, CA 94080",14084620530,pizza
+549,Chili's,37.63042971733036,-122.4181857,2.5,983,"899 El Camino Real San Bruno, CA 94066",16509522692,"bars, eventspaces, livemusic, restaurants, smoothies, socialclubs, casual dining, American food, burgers and ribs, family restaurant, San Bruno"
+550,Chipotle Mexican Grill,37.6372041,-122.4172493,1.9,135,"1150 El Camino Real Ste 197 San Bruno, CA 94066",16508292469,"mexican, Mexican fast food, burritos, tacos, bowls, national chain, San Bruno"
+551,Chuck E. Cheese,37.6393742,-122.4190024,2.4,301,"1270-1272 El Camino Real San Bruno, CA 94066",16502449699,"arcades, arts, pizza, arcade, pizza, kids birthday parties, family entertainment, San Bruno"
+552,Churreria SF,37.65682983,-122.4143524,4.8,6,"South San Francisco, CA 94080",,desserts
+554,City Hall Play Area,37.65684607,-122.4138872,4.7,3,"Miller Ave & Walnut Ave South San Francisco, CA 94080",,parks
+556,Clay Park,37.6616,-122.46246,4.3,10,"Clay Avenue And Dundee Dr South San Francisco, CA 94080",16508293800,playgrounds
+557,Cloudz Hookah Lounge,37.60955,-122.400255,4.7,214,"1350 El Camino Real Millbrae, CA 94030",14156326535,"bars, hookah_bars, nightlife"
+558,Club Pilates,37.62680238687329,-122.4255551,0,0,"851 Cherry Ave Ste 13 San Bruno, CA 94066",16505401999,"yoga, pilates classes, fitness studio, wellness, group workouts, San Bruno, Culture, Outdoor Activities"
+559,Cochinita,37.65553641749801,-122.4108674,4.5,197,"334 Grand Ave South San Francisco, CA 94080",16503920182,mexican
+560,Coco3,37.66553054050113,-122.4523563,4.1,311,"117 Hickey Blvd South San Francisco, CA 94080",16508373000,"bubbletea, desserts, juicebars"
+561,Cold Stone Creamery,37.636937,-122.417502,3.2,106,"1150 El Camino Real Ste 192 San Bruno, CA 94066",16504096768,"icecream, ice cream, custom mix-ins, dessert shop, national chain, San Bruno"
+562,Commodore Park,37.63096836310109,-122.4256673,3,52,"Commodore and Cherry Ave San Bruno, CA 94066",,"parks, public park, playground, picnic area, outdoor recreation, San Bruno"
+563,CornerArt For Kids,37.598387,-122.384067,0,0,"201 Adrian Rd Millbrae Millbrae, CA 94030",,artclasses
+564,Costco Food Court,37.64287190157039,-122.401606,3.3,66,"451 S Airport Blvd South San Francisco, CA 94080",16508722021,pizza
+566,Couture Dance & Yoga Studio,37.603936,-122.393627,4.2,5,"620 El Camino Real Millbrae, CA 94030",16508890545,yoga
+568,Creative Corner,37.6361874,-122.4178577,0,0,"1150 El Camino Real Ste¬†247 Studio  A2 San Bruno, CA 94066",16502737171,"artclasses, art studio, kids crafts, painting workshops, birthday parties, San Bruno, family fun"
+569,Cuneo Bakery,37.65425,-122.40947,4.8,41,"210 Baden Ave South San Francisco, CA 94080",16508719090,bakeries
+570,Curry Corner Indian Restaurant & Pizza,37.65817,-122.408877,4.3,201,"600 Linden Ave South San Francisco, CA 94080",16502731180,"indpak, pizza"
+572,Da Capo Music School,37.61261,-122.40469,4.5,16,"130 Park Blvd Millbrae, CA 94030",16502041208,theater
+573,Dahab Restaurant & Cafe,37.647096,-122.410025,4.1,310,"1429 San Mateo Ave South San Francisco, CA 94080",16508699534,mediterranean
+574,Dairy Queen/Orange Julius Treat Ctr,37.63633,-122.418035,2.5,96,"1150 El Camino Real Ste 2523 The Shops at Tanforan San Bruno, CA 94066",16509525321,"burgers, icecream, soft serve, ice cream, smoothies, fast food desserts, San Bruno"
+576,Dancel's Academy of Tae Kwon Do,37.62603608,-122.4114617,4.4,21,"589 San Mateo Ave San Bruno, CA 94066",16508263258,"fitness, martial arts, taekwondo classes, kids self-defense, San Bruno, culture"
+577,Darby Dan's Gourmet Sandwiches,37.6595451,-122.4055122,3.9,568,"733 Airport Blvd South San Francisco, CA 94080",16508760122,"burgers, sandwiches"
+579,Ddlc Coca Cola,37.6162548,-122.4077284,0,0,"137 CA-82 San Bruno, CA 94066",,"pizza, beverage distribution, Coca-Cola bottling, warehouse facility, San Bruno"
+580,Dead Eye Coffee Bar,37.65564203,-122.4129573,4.7,407,"415 Grand Ave Ste 100 South San Francisco, CA 94080",16507416619,coffee
+582,Deeksha Yoga,37.599785,-122.403043,0,0,"Millbrae, CA 94030",,yoga
+583,Denny's,37.6501597,-122.4079022,2.5,409,"10 Airport Blvd South San Francisco, CA 94080",16508721033,breakfast_brunch
+584,Devil's Slide Coastal Trail,37.58494425,-122.5083218,4.6,141,"5981 California Coastal Trl Pacifica, CA 94044",16503558289,hiking
+585,Dhol King,37.6317236,-122.4152957,4.3,11,"390 Euclid Ave San Bruno, CA 94066",16505883784,"arts, musicvenues, nightlife, theater, dhol drummers, event entertainment, Indian weddings, cultural music, events"
+586,Dog House,37.616577,-122.407157,4.1,48,"130 El Camino Real San Bruno, CA 94066",16505885601,"bars, nightlife, hot dogs, fast food, quick bites, casual eatery, San Bruno"
+587,Dojo USA,37.6255613,-122.4109667,5,11,"548 San Mateo Ave San Bruno, CA 94066",16504904414,"fitness, martial arts school, karate classes, youth programs, self-defense, San Bruno"
+588,Dominic's at Oyster Point,37.6620048,-122.3778493,4.6,101,"911 Marina Blvd South San Francisco, CA 94080",16505891096,venues
+589,Domino's Pizza,37.6615639,-122.4390869,1.9,176,"1158 Mission Rd South San Francisco, CA 94080",16508759440,pizza
+590,Donut King,37.6566516,-122.4162268,4.2,29,"504 Grand Ave South San Francisco, CA 94080",16507426736,"breakfast_brunch, donuts"
+592,Dragon Wagon Reptiles,37.63558578,-122.4888077,5,5,"Pacifica, CA 94044",14158878749,zoos
+594,Dragonfly Designs,37.66192843523101,-122.4302477,5,140,"55 Nursery Way South San Francisco, CA 94080",16503031900,artclasses
+599,Dumpling and Cajun Seafood,37.65559,-122.41057,3.8,186,"320 Grand Ave South San Francisco, CA 94080",16502738222,"chinese, seafood"
+602,Dumpling Empire,37.654496,-122.408545,3.8,1096,"216 Cypress Ave South San Francisco, CA 94080",16507420838,chinese
+606,Dumpling Era,37.620472,-122.410489,4,438,"354 El Camino Real San Bruno, CA 94066",16507379899,"chinese, restaurants,dumplings, Chinese food, soup dumplings, casual dining, San Bruno"
+607,Dunkin',37.64941799,-122.4059381,2.6,377,"180 S Airport Blvd South San Francisco, CA 94080",16507429101,"coffee, donuts"
+608,E Plus Restaurant,37.64011504614784,-122.4023185,3.8,81,"490 A S Airport Blvd Ste A South San Francisco, CA 94080",16508716688,chinese
+612,Earl Spicy,37.614105958326746,-122.4055325,4.3,487,"1711 El Camino Real Millbrae, CA 94030",16508696222,"chinese, seafood"
+613,East And West Gallery,37.635837,-122.418023,4.8,6,"155 Tanforan Shopping Ctr San Bruno, CA 94066",16509523986,"galleries, art gallery, mixed media, exhibitions, local artists, San Bruno, Culture"
+614,Edmunds Golf School,37.62842152137145,-122.4366126,5,7,"2101 Sneath Ln San Bruno, CA 94066",16503595256,"fitness, golf lessons, swing training, private coaching, San Bruno, Outdoor Activities"
+615,Eggettes,37.64916887,-122.4301607,4,743,"639 El Camino Real South San Francisco, CA 94080",16502669919,"bubbletea, coffee, desserts"
+617,El Cameron RWC,37.63488525798004,-122.4206585,0,0,"1101 El Camino Real San Bruno, CA 94066",16503335998,"Mexican food truck, tacos, mobile eatery, casual street food, San Bruno"
+619,El Faro Mexican Food,37.646427,-122.428459,2.9,462,"435 El Camino Real South San Francisco, CA 94080",16505896288,mexican
+623,El Farolito,37.65610674,-122.4122242,4,784,"394 Grand Ave South San Francisco, CA 94080",16507370138,mexican
+627,El Ni√±o Training Center,37.65173,-122.4097,4.9,123,"1 S Linden Ave Ste 7 South San Francisco, CA 94080",16506364510,fitness
+628,El Palenque Taqueria,37.6630249,-122.4084244,4.1,77,"245 Hillside Blvd South San Francisco, CA 94080",16505892798,mexican
+629,El Santaneco,37.65467,-122.41063,4.1,143,"203 Linden Ave South San Francisco, CA 94080",16509525538,"mexican, seafood"
+630,El Super Burrito,37.6046189,-122.3947034,3.4,725,"780 El Camino Real Millbrae, CA 94030",16505830487,mexican
+632,El Tesoro,37.645335,-122.452045,3.2,273,"2268 Westborough Blvd South San Francisco, CA 94080",16506348700,mexican
+633,Elks Lodge No 2091,37.666007,-122.424896,4.2,20,"920 Stonegate Dr South San Francisco, CA 94080",16505894030,venues
+640,Eltacotento,37.656715,-122.437419,4.5,18,"1131 El Camino Real South San Francisco, CA 94080",,mexican
+642,Entenmann's Oroweat Foods,37.64735495109095,-122.4218409,4.4,27,"264 S Spruce Ave South San Francisco, CA 94080",16508753100,bakeries
+643,Eplus Karaoke,37.63996,-122.40212,3.8,339,"490 S Airport Blvd South San Francisco, CA 94080",16508716688,"cafes, karaoke, nightlife"
+644,Esposto's Catering,37.636456,-122.406746,4.6,58,"360 Shaw Rd Ste C South San Francisco, CA 94080",16505889500,italian
+646,Esposto's Delicatezza,37.66001553657095,-122.3975562,4.4,27,"701 Gateway Blvd South San Francisco, CA 94080",16504454530,sandwiches
+647,Every Child is an Artist,37.60662887492286,-122.4103572,5,1,"619 Capuchino Dr Millbrae, CA 94030",16508688297,artclasses
+648,Evolve Training Center,37.64929178340903,-122.4303458,5,171,"647 El Camino Real South San Francisco, CA 94080",16506159322,fitness
+649,F45 Training - San Bruno,37.62538,-122.41156,4.9,27,"555 San Mateo Ave San Bruno, CA 94066",16502041486,"fitness, HIIT, group fitness, strength training, personal coaching, San Bruno, Outdoor Activities"
+651,Fairway Club,37.653247,-122.432179,5,1,"900 El Camino Real South San Francisco, CA 94080",16503798005,cocktailbars
+653,Fairway Cocktail Lounge,37.65329,-122.43205,4.3,20,"900 El Camino Real South San Francisco, CA 94080",16505882343,cocktailbars
+655,Fat Wong's Kitchen,37.615727,-122.4063326,3.5,1002,"1780 El Camino Real San Bruno, CA 94066",16508726682,"chinese, Cantonese cuisine, seafood dishes, casual Chinese restaurant, San Bruno"
+656,Fiddler's Green,37.60151851,-122.3915923,4.2,523,"333 El Camino Real Millbrae, CA 94030",16506973419,"bars, nightlife"
+657,Fitness 19,37.6268,-122.42553,3.1,152,"851 Cherry Ave Ste 21 San Bruno, CA 94066",16504919232,"fitness, gym, affordable fitness, weight training, local gym, San Bruno, Outdoor Activities"
+658,Fitness Therapy,37.651069,-122.4120835,4.9,100,"20 S Linden Ave Ste 1B South San Francisco, CA 94080",16502421702,fitness
+660,Five Guys,37.64487591393268,-122.4529702,3.2,272,"2278 Westborough Blvd South San Francisco, CA 94080",16502449900,"burgers, sandwiches"
+667,Focaccia Market & Bakery,37.66603174201334,-122.398173,3.3,38,"1 Tower Pl South San Francisco, CA 94080",16502674233,breakfast_brunch
+672,Forest Lane Park,37.63330719836636,-122.4169097,2,1,"933 Easton Ave San Bruno, CA 94066",,"parks, neighborhood park, playground, green space, outdoor recreation, San Bruno, Nature, Family Fun"
+674,Forever Fine Art,37.65751648,-122.4384766,0,0,"2 Del Paso Dr South San Francisco, CA 94080",16505883999,galleries
+675,"Fort McKinley Restaurant, Bar & Banquet",37.64140084,-122.4251996,3.4,562,"101 Brentwood Dr South San Francisco, CA 94080",16508712222,"bars, danceclubs, lounges, nightlife"
+676,Foundry & Lux,37.663653357130656,-122.3944007,3.7,296,"151 Oyster Point Blvd South San Francisco, CA 94080",16508663924,"bars, newamerican, nightlife, venues"
+678,Francisco Terrace Playlot,37.6449814,-122.4226608,0,0,"S Spruce Ave & Terrace Dr South San Francisco, CA 94080",,playgrounds
+741,FullGrip Barbell,37.648539,-122.4108446,4.9,45,"1387 Lowrie Ave South San Francisco, CA 94080",14157130067,fitness
+743,Garden Grille & Bar,37.65763,-122.39746,0,0,"670 Gateway Blvd South San Francisco, CA 94080",16508721515,cocktailbars
+744,Genencafe B24/25,37.65639114,-122.3848801,4.4,5,"501 Grandview Dr South San Francisco, CA 94080",,cafes
+745,GenenCafe B32,37.655393536739695,-122.3825886,3,1,"1511 Grandview Dr South San Francisco, CA 94080",,cafes
+746,Genentech Cafeteria,37.6580048,-122.3990402,2.1,10,"651 Gateway Blvd South San Francisco, CA 94080",,cafes
+747,Genentech Coffee House,37.65485412,-122.3822754,4.1,7,"1531 Grandview Dr South San Francisco, CA 94080",,"desserts, icecream"
+753,Gintei,37.618545,-122.40979,4.1,544,"235 El Camino Real San Bruno, CA 94066",16506364135," japanese, livemusic,restaurants, Japanese restaurant, sushi, sashimi, casual dining, San Bruno"
+754,Giusto's Specialty Foods,37.64803223,-122.3943526,4.3,6,"344 Littlefield Ave South San Francisco, CA 94080",16508736566,bakeries
+757,Goldilocks,37.64548035,-122.4514997,2.6,201,"2268 Westborough Blvd Ste 306 South San Francisco, CA 94080",16508730565,bakeries
+758,Gourmet Xpress,37.64372,-122.39929,0,0,"360 Harbor Way South San Francisco, CA 94030",16506926335,desserts
+760,Gourmonade,37.65551853979163,-122.4220699,4.5,2,"South San Francisco, CA 94080",14159672411,juicebars
+761,Grand HotPot,37.65068,-122.49185,4.1,612,"452 Manor Plz Pacifica, CA 94044",16507355189,karaoke
+762,Grand Leader Market,37.62668,-122.41101,4.6,181,"600 San Mateo Ave San Bruno, CA 94066",16505892928,"grocery store, international foods, fresh produce, local market, San Bruno, shopping"
+763,Grand Palace Restaurant,37.655179,-122.411585,3.5,1029,"359 Grand Ave South San Francisco, CA 94080",16508721000,"chinese, seafood"
+765,Grapeholic,37.598061,-122.386405,4.2,208,"102 S El Camino Real Millbrae, CA 94030",16502312682,coffee
+767,Green Hills Country Club,37.60331,-122.40972,4.1,37,"500 Ludeman Ln Millbrae, CA 94030",16505884616,"arts, venues"
+768,Green Hills Park,37.6074214,-122.4018403,4,2,"Magnolia Ave And Ludeman Ln Millbrae, CA 94030",16502592334,parks
+770,Grill & Vine,37.6041488,-122.375993,3.5,108,"1 Old Bayshore Hwy Millbrae, CA 94030",16508728141,newamerican
+771,Grill City,37.64365557430845,-122.4636314,2.1,123,"3573 Callan Blvd South San Francisco, CA 94080",16502436100,bbq
+776,Grill Kebabs and Gyros,37.6554849,-122.4121851,4.6,183,"385 Grand Ave South San Francisco, CA 94080",16506364532,"greek, livemusic, mediterranean,  restaurants, smoothies"
+779,Grundy Park,37.62191375643105,-122.4217635,4.2,6,"567 El Camino Real San Bruno, CA 94066",,"parks, community park, sports courts, playground, picnic area, San Bruno, nature, family fun"
+782,Guapas Mexican Grill,37.662621,-122.396777,4,86,"101 Oyster Point Blvd Ste 106 South San Francisco, CA 94080",16507458042,mexican
+831,Guero‚Äôs Taqueria,37.65298644,-122.4181104,4.4,20,"781 Tennis Dr South San Francisco, CA 94080",16509950758,mexican
+833,Gunter's Restaurant,37.65549,-122.43598,3.5,436,"1057 El Camino Real South San Francisco, CA 94080",16507611825,breakfast_brunch
+834,Gymtowne Gymnastics Ssf,37.64769,-122.39753,4,98,"239 Utah Ave South San Francisco, CA 94080",16505893733,fitness
+836,HA Tea Handmade,37.599493,-122.389324,3.4,187,"153 El Camino Real Millbrae, CA 94030",16502318041,"bubbletea, juicebars"
+837,Habit Burger & Grill,37.596446,-122.386416,2.8,86,"143 S. El Camino Real Millbrae, CA 94030",16506890180,burgers
+842,Han Sang,37.602,-122.39275,4.2,401,"420 Broadway Millbrae, CA 94030",16504196018,korean
+844,Hana Hawaiian Barbeque,37.62405577749558,-122.4111082,4.3,465,"482 San Mateo Ave San Bruno, CA 94066",16506348788,"bbq, Hawaiian BBQ, plate lunch, island-style cuisine, casual dining, San Bruno"
+846,Hana Izumi,37.60119219510378,-122.390924,4.8,144,"293 El Camino Real Millbrae, CA 94030",16503023012,japanese
+849,Hana's Cafe & Deli,37.665258,-122.382743,3.9,44,"400 Oyster Point Blvd Fl 1 South San Francisco, CA 94080",16505898514,"cafes, sandwiches"
+850,Hana's Cafe Extension,37.66555802848941,-122.3825442,0,0,"400 Oyster Point South San Francisco, CA 94080",16505898514,mediterranean
+851,Hapa Bistro,37.612718,-122.403077,4.6,29,"1590 El Camino Real San Bruno, CA 94066",16508730300,"french, Asian fusion, bistro-style dining, craft cocktails, modern decor, San Bruno, nightlife"
+863,Happy Picasso,37.59781213,-122.3854604,5,15,"120 S El Camino Real Unit 15 Millbrae, CA 94030",14156048710,artclasses
+870,Haramochi Donuts,37.655519,-122.42207,4.8,25,"South San Francisco, CA 94080",16504574354,donuts
+872,Hashes & Brews,37.62624,-122.42623,3.8,600,"811 Cherry Ave San Bruno, CA 94066",16509523189,"bars, breakfast & brunch, American food, casual cafe, hash dishes, San Bruno"
+879,Hawi Hawaiian BBQ,37.65495682,-122.4105682,4,285,"307 Grand Ave South San Francisco, CA 94080",16508663328,bbq
+882,Herman park,37.635451282738416,-122.4133785,2,1,"163 Diamond St San Bruno, CA 94066",,"parks, neighborhood park, green space, picnic benches, local playground, San Bruno, Nature, Family Fun"
+883,Hidden Spot - South San Francisco,37.65509,-122.41039,4.7,739,"303 Grand Ave South San Francisco, CA 94080",16508724484,"bars, burgers, restaurants, sandwiches"
+890,Hidden Tap and Barrel,37.65551,-122.41309,0,0,"415 Grand Ave South San Francisco, CA 94080",16505024111,cocktailbars
+892,Hilton Garden Inn San Francisco Airport North,37.65739973695436,-122.3978976,3.6,219,"670 Gateway Blvd South San Francisco, CA 94080",16508721515,venues
+898,Hing Lung,37.63917953594149,-122.4212574,3.4,362,"1230 El Camino Real Ste P San Bruno, CA 94066",16508733088,"chinese, Chinese BBQ, roast duck, traditional Cantonese, takeout spot, San Bruno"
+908,Hing Lung Cafe,37.6551503,-122.4110194,3.7,236,"331 Grand Ave South San Francisco, CA 94080",16507631668,"bbq, chinese"
+966,Hip Hop Bbq Shack,37.618473,-122.409758,4.2,91,"223 El Camino Real San Bruno, CA 94066",16508263406,"bbq, desserts, BBQ, soul food, hip hop theme, ribs and brisket, casual eats, San Bruno"
+967,Hiyaaa!,37.65683,-122.41435,3.2,149,"South San Francisco, CA 94080",16503336052,korean
+968,HKR Andy's Restaurant,37.66552900634661,-122.4523744,3.2,455,"121 Hickey Blvd South San Francisco, CA 94080",16507631238,chinese
+969,HL Peninsula Restaurant,37.6569515,-122.4057682,3.2,729,"608 Dubuque Ave South San Francisco, CA 94080",16506168168,"chinese, seafood"
+971,Holiday Inn Express San Francisco-Airport North,37.64432562274569,-122.4039909,2.4,166,"373 S Airport Blvd South San Francisco, CA 94080",16505890600,venues
+972,Hometown Bowl,37.643042,-122.426124,3.7,237,"130 Northwood Dr South San Francisco, CA 94080",16507631643,bowling
+973,Hometown Heroes,37.6550735,-122.4103483,4,284,"303 Grand Ave South San Francisco, CA 94080",16508724484,"bars, cocktailbars, nightlife"
+974,Hookt doughnuts,37.65365626,-122.4197083,3.6,14,"South San Francisco, CA 94080",14158906577,donuts
+976,Hubei Restaurant,37.60607,-122.3977367,4.1,227,"1055 El Camino Real Millbrae, CA 94030",16506928858,chinese
+977,Hula Halau 'O Makalapua Marama Te Mafatu Nui,37.6220851,-122.4111351,4.9,19,"426 San Mateo Ave San Bruno, CA 94066",16502604852,"fitness, Polynesian dance, hula classes, cultural group, traditional performance, San Bruno"
+978,Hula Hoops,37.644909,-122.452615,4.2,1813,"2278 Westborough Blvd Ste 203 South San Francisco, CA 94080",16509523255,"bars, restaurants, smoothies"
+979,Hummus Hero,37.628304,-122.416674,1,1,"799 El Camino Real San Bruno, CA 94066",16508757482,"mediterranean, Mediterranean food, hummus bowls, vegetarian-friendly, casual dining"
+980,Hung To Seafood Restaurant,37.64748383,-122.4191589,3.6,632,"221 S Spruce Ave South San Francisco, CA 94080",16508770828,"chinese, seafood"
+981,Ice Cream Shop,37.65365626,-122.4197083,3,1,"South San Francisco, CA 94080",16505831996,icecream
+986,Ichi Ramen,37.63882,-122.42177,2.6,252,"1230 El Camino Real Ste P San Bruno, CA 94066",16508733088,"japanese, ramen shop, Japanese noodles, cozy atmosphere, quick service"
+987,Ichiban Sushi,37.62041578,-122.4105,3.1,264,"352 El Camino Real San Bruno, CA 94066",16508732268,"sushi, sushi rolls, sashimi, Japanese cuisine, casual spot"
+995,Ichika Izakaya,37.625698061135004,-122.426595,4.5,217,"851 Cherry Ave Ste 34 San Bruno , CA 94066",16506364450,"Japanese tapas, yakitori, sake bar, evening hangout, japanese, livemusic, sushi"
+997,IHOP,37.6253,-122.41388,2.4,221,"590 El Camino Real San Bruno, CA 94066",16505888344,"breakfast brunch, burgers, breakfast chain, pancakes, diner-style, family-friendly"
+999,Ikon Roastery,37.641455,-122.41247,4.6,68,"220 S Linden Ave K1 south San Francisco, CA 94080",16508700447,coffee
+1005,In-N-Out Burger,37.60080978708977,-122.382491,3.9,1065,"11 Rollins Rd Millbrae, CA 94030",18007861000,burgers
+1015,Indaia Pao de Queijo,37.6235199,-122.4345779,5,1,"San Bruno, CA 94066",16506790952,"bakeries, Brazilian cheese bread, gluten-free snacks, local bakery"
+1017,Inshallah Food Truck,37.66737,-122.38249,3.5,4,"395 Oyster Point South San Francisco, CA 94080",16502716848,mediterranean
+1024,Iries Bites,37.65551853979163,-122.4220699,5,2,"South San Francisco, CA 94080",14152997671,desserts
+1036,Isla Restaurant,37.62289,-122.41076,3.7,1047,"448 San Mateo Ave San Bruno, CA 94066",16508725008,"Filipino cuisine, seafood, upscale dining, modern twist"
+1078,Island Huli,37.64241,-122.42621,5,1,"120 Hazelwood Dr South San Francisco, CA 94080",14083750269,seafood
+1080,It's Just Wings,37.63041644096937,-122.4181895,0,0,"899 El Camino Real San Bruno, CA 94066",14692932636,"chicken wings, delivery only, ghost kitchen, sauces and fries"
+1081,Italfoods,37.64188,-122.41069,0,0,"205 Shaw Rd South San Francisco, CA 94080",16508770724,italian
+1082,Its Sugarlicious,37.59978541943447,-122.403043,5,10,"Millbrae, CA 94030",16505347772,desserts
+1085,Izanami,37.6549187,-122.4098915,3.6,445,"257 Grand Ave South San Francisco, CA 94080",16506362267,"japanese, sushi"
+1086,J&J Bakery,37.65563,-122.41067,3.1,189,"324 Grand Ave South San Francisco, CA 94080",16505882656,bakeries
+1087,Jack Drago Park,37.65454164078461,-122.4035705,1.5,2,"East Grand Ave South San Francisco, CA 94080",,parks
+1088,Jack in the Box,37.665938,-122.451504,2.4,126,"1695 El Camino Real South San Francisco, CA 94080",16509948245,burgers
+1089,Jack's Restaurant & Bar,37.63399,-122.420218,3.9,1721,"1050 Admiral Ct Ste A San Bruno, CA 94066",16505892222,"bars, beerbar, American comfort food, brunch, cocktails, family-friendly bar breakfast_brunch, cocktailbars,  livemusic,  nightlife, party, restaurants"
+1090,Jamba,37.62675966684732,-122.4255615,3,149,"851 Cherry Ave Ste 5 San Bruno, CA 94066",16509528963,"juicebars, smoothies, fresh juice, health drinks, quick service, San Bruno"
+1099,JC Bruno Restaurant,37.62928,-122.4115769,4.2,225,"741 San Mateo Ave San Bruno, CA 94066",16502709023,"local diner, breakfast and lunch, homestyle meals, casual dining, San Bruno, newamerican, party, pizza, restaurants, seafood, smoothies"
+1100,Jim Schmitz - Olympic Weightlifting,37.65551,-122.4122807,5,22,"387 Grand Ave Physique Magnifique South San Francisco, CA 94080",14156487231,fitness
+1105,Jin Gege & Yao Yao,37.63881308389595,-122.4209415,3.8,49,"1212 El Camino Real Ste C&D San Bruno, CA 94066",16506364380,"bbq, chinese, Chinese skewer restaurant, spicy street food, hot pot skewers, San Bruno"
+1106,Jinweide Lanzhou Beef Noodles,37.6012,-122.39176,4.1,216,"328 Broadway Millbrae, CA 94030",16506975188,chinese
+1108,JoAnn's Cafe,37.656815,-122.437286,3.7,787,"1131 El Camino Real South San Francisco, CA 94080",16508722810,breakfast_brunch
+1110,Joseph A. Fernekes Recreation Bldg,37.65455,-122.426388,5,4,"781 Tennis Dr South San Francisco, CA 94080",,venues
+1112,Josephine Waugh - Soroptimist Park,37.59437397,-122.3979025,3,1,"1198 Chadbourne Ave Millbrae, CA 94030",,parks
+1113,Junipero Serra Park,37.60916539291726,-122.4226242,4.3,69,"1801 Crystal Springs Rd San Bruno, CA 94066",16505895708,"parks, playgrounds, nature park, hiking trails, picnic spots, scenic views, San Bruno"
+1114,K. Grill & Tofu House,37.62681,-122.41148,4.1,843,"617 San Mateo Ave San Bruno, CA 94066",16508733030,"Korean BBQ, tofu soup, grill-your-own, authentic cuisine, San Bruno, korean"
+1128,K1 Speed,37.63947,-122.40419,3.2,653,"160 Beacon St South San Francisco, CA 94080",16507410215,venues
+1219,Kailitas Creations,37.62392044067383,-122.4252167,0,0,"San Bruno, CA 94066",16502900150,"desserts, custom cakes, sweets, event desserts, local baker, San Bruno"
+1220,Kaiser Permanente South San Francisco Cafeteria,37.65925,-122.4392,3.7,17,"1200 El Camino Real Fl 2 South San Francisco, CA 94080",,cafes
+1221,Kamu Sushi,37.654909,-122.408235,3.9,688,"112 Grand Ave South San Francisco, CA 94080",16509522888,"japanese, sushi"
+1222,Karen‚Äôs Cookie,37.626602,-122.417837,0,0,"San Bruno, CA 94066",14086948816,desserts
+1223,Karilagan,37.6566533,-122.4371884,3.5,659,"1129 El Camino Real South San Francisco, CA 94080",16505894405,seafood
+1224,Kava Bar,37.62708,-122.41102,4.6,87,"630 San Mateo Ave San Bruno, CA 94066",16503514370,"lounges, nightlife, tea, kava drinks, herbal bar, social lounge, alternative wellness, San Bruno"
+1225,Kc and L Seafood,37.650199,-122.387641,0,0,"390 Swift Ave South San Francisco, CA 94080",16505898188,seafood
+1226,Kevin‚Äôs Noodle House,37.65509,-122.4112,4.2,82,"337 Grand Ave South San Francisco, CA 94080",16503920135,"seafood, vietnamese"
+1227,King Sun Buffet,37.64839216,-122.4043284,2,269,"245 S Airport Blvd South San Francisco, CA 94080",16507631817,bbq
+1229,Kiss My Boba,37.61834798760752,-122.409672,3.9,163,"221 El Camino Real San Bruno, CA 94066",16504453533,"bubbletea, coffee, donuts, boba tea, bubble drinks, takeout beverages, San Bruno"
+1231,Knafeh Kreations,37.626601750000006,-122.4178372,0,0,"San Bruno, CA 94066",14157062730,"desserts, Middle Eastern dessert, knafeh, sweet cheese pastry, specialty treats, San Bruno"
+1232,Krispy Krunchy Chicken,37.660555,-122.4080348,3.4,26,"812 Linden Ave South San Francisco, CA 94080",16505837892,seafood
+1233,L Drinks & Snacks,37.639391,-122.420976,4.3,3,"1230 El Camino Real Ste M San Bruno, CA 94066",,"cafes, juicebars, boba tea, fruit drinks, Asian snacks, takeout beverages, San Bruno"
+1234,L&L Hawaiian Barbecue,37.639391,-122.420976,2.8,270,"1230 El Camino Real Ste Unit M&N San Bruno, CA 94066",16508737188,"bbq, Hawaiian BBQ, plate lunch, loco moco, fast casual dining, San Bruno"
+1237,La Collina Italian Restaurant,37.60162354,-122.3916702,3.7,269,"355 El Camino Real Millbrae, CA 94030",16506529655,italian
+1238,La Michoacanita Paleteria Y Neveria,37.6175,-122.408954,4.4,48,"197 El Camino Real San Bruno, CA 94066",16503335672,"icecream, Mexican ice cream, paletas, desserts, family-owned, San Bruno"
+1240,La Nueva Perla,37.6571103,-122.408895,4,263,"222 Lux Ave South San Francisco, CA 94080",16507416696,mexican
+1241,La Paloma,37.628243,-122.4114897,3.9,158,"699 San Mateo Ave San Bruno, CA 94066",16505830939,"mexican, Mexican food, taqueria, burritos and tacos, local eatery, San Bruno"
+1242,La Petite Baleen Swim Schools,37.6223778,-122.4110216,3.5,201,"434 San Mateo Ave San Bruno, CA 94066",16507638982,"fitness, swim lessons, children’s swimming, indoor pool, water safety, San Bruno, Family Fun, Outdoor Activities"
+1243,La Petite Camille,37.6,-122.38849,3.7,798,"170 El Camino Real Millbrae, CA 94030",16506924978,vietnamese
+1244,La Salsa,37.63911924,-122.4212516,2.8,105,"1230 El Camino Real Ste Q San Bruno, CA 94066",16505889722,"mexican, Mexican grill, burritos and bowls, quick service, fresh ingredients, San Bruno"
+1245,La Tapatia Mexicatessen,37.655495785883225,-122.4129906,4.2,863,"411 Grand Ave South San Francisco, CA 94080",16505895881,mexican
+1246,La Torta Sabrosa,37.6559372,-122.4140849,3.6,154,"439 Grand Ave South San Francisco, CA 94080",16509522790,"mexican, sandwiches"
+1247,La Ventana,37.65609421003072,-122.3914114,5,1,"460 Forbes Blvd South San Francisco, CA 94080",,cafes
+1248,Lai Lai Restaurant,37.601245,-122.391936,3.8,485,"334 Broadway Millbrae, CA 94030",16506928898,chinese
+1251,Laka ,37.60186,-122.39342,3.9,125,"447 Broadway Millbrae, CA 94030",16506517105,"breakfast_brunch, chinese"
+1252,Lamas Peruvian Truck,37.66355,-122.37865,4.3,118,"95 Harbor Master Rd South San Francisco, CA 94080",16507979866,mexican
+1253,Las Hijas Del Gallo Bakery,37.65867,-122.40926,4.5,242,"615 Linden Ave South San Francisco, CA 94080",16504603239,"bakeries, coffee"
+1254,Layalena,37.6471049,-122.41009,4.4,7,"1429 San Mateo Ave South San Francisco, CA 94080",16508699534,"cocktailbars, mediterranean"
+1255,Leo Moon Tarot,37.626601750000006,-122.4178372,0,0,"San Bruno, CA 94066",14156236364,"arts, tarot readings, spiritual guidance, intuitive services, San Bruno, culture"
+1256,Leonardo's Italian Deli & Cafe,37.60319,-122.39444,4.2,283,"540 Broadway Millbrae, CA 94030",16506979779,"coffee, italian"
+1258,Library | Parks and Recreation Center,37.76782,-122.39014,5,3,"901 Civic Campus Wy South San Francisco, CA 94080",16508778500,"parks, playgrounds"
+1259,Light Touches,37.62392044,-122.4252167,5,10,"San Bruno, CA 94066",16507597577,"culture, massage therapy, wellness services, relaxation treatments, San Bruno"
+1260,Lil' Loop Neighborhood Market,37.628738370192615,-122.4160775,0,0,"798 El Camino Real San Bruno, CA 94066",16505895764,"coffee, corner store, local convenience, snacks and essentials, San Bruno"
+1262,Lily Spruce,37.6210696,-122.4297369,5,76,"San Bruno, CA 94066",14152656205,"wedding_planning, wedding planning, event coordination, personalized design, San Bruno"
+1264,Lion Bill Mitchell Park,37.59771,-122.40861,3.8,4,"Tioga Dr Millbrae, CA 94030",,playgrounds
+1268,Lions Field,37.62320552,-122.406503,3.7,3,"500 1st Ave San Bruno, CA 94066",,"parks, baseball field, youth sports, community park, outdoor recreation, nature, family"
+1269,Little Caesars Pizza,37.6032129,-122.3960928,3.1,100,"660 Magnolia Ave Millbrae, CA 94030",16506927200,pizza
+1278,Little Chengdu,37.60059762335828,-122.3902186,4.2,76,"213 El Camino Real Millbrae, CA 94030",16506517039,chinese
+1284,Little Green Cyclo,37.648957,-122.4138977,3.1,389,"121 S Maple Ave Ste 13 South San Francisco, CA 94080",14153751657,vietnamese
+1285,Little Lucca Specialty Sandwich Shop,37.65091,-122.43056,4.3,3816,"724 El Camino Real South San Francisco, CA 94080",16505898916,"botanicalgardens, eventspaces, livemusic, minigolf, party, restaurants, sandwiches, smoothies, socialclubs, sportsclubs"
+1287,Little Saigon,37.65264,-122.4112,3.8,266,"7 Linden Ave South San Francisco, CA 94080",16505891398,vietnamese
+1288,Little Vietnamese Bistro,37.62205,-122.41094,3.7,215,"422 San Mateo Ave San Bruno, CA 94066",16505022203,"vietnamese, pho, rice plates, Vietnamese cuisine, casual dining, San Bruno"
+1289,Lo Nuestro Cafe,37.612591,-122.404033,0,0,"1601 El Camino Real Millbrae, CA 94030",16506693436,"cafes, desserts"
+1292,Local Kitchens,37.62681361118622,-122.425534,4,150,"851 Cherry Ave Ste 2 San Bruno, CA 94066",14159928206,"burgers, livemusic, mexican,  restaurants, sandwiches, food hall, multiple vendors, variety of cuisines, modern concept"
+1293,Longboard Bar And Venue,37.6326649,-122.4877678,4,122,"180 Eureka Sq Pacifica, CA 94044",16507337934,musicvenues
+1294,Los Cuates Taqueria,37.6421199,-122.426565,4.2,273,"140 Hazelwood Dr South San Francisco, CA 94080",16507458203,mexican
+1296,Los Metates,37.65673,-122.40904,3.9,120,"231 Lux Ave South San Francisco, CA 94080",16505894282,mexican
+1300,Los Poblanitos,37.626601750000006,-122.4178372,4,1,"San Bruno, CA 94066",16509840392,"mexican, tacos, Mexican street food, small family-run taqueria, San Bruno"
+1301,Lotus Falafel and Shawerma-San Bruno,37.62698021687039,-122.4114306,4.6,391,"629 San Mateo Ave San Bruno, CA 94066",16507630763,"mediterranean, Middle Eastern food, falafel, shawarma, casual halal, San Bruno"
+1303,Love Burn,37.643,-122.426178,4.3,389,"130 Northwood Dr Hometown Bowl South San Francisco, CA 94080",16507631887,"botanicalgardens, eventspaces, livemusic, minigolf, party, restaurants, sandwiches, smoothies, socialclubs, sportsclubs"
+1305,Lovey's Tea Shoppe,37.60942337787355,-122.4946374,4.4,330,"4430 Coast Hwy Pacifica, CA 94044",16503591245,tea
+1306,Lucky,37.6403454,-122.42219,2.6,161,"1322 El Camino Real San Bruno, CA 94066",16507429733,"grocery store, supermarket, fresh produce, local chain, San Bruno"
+1307,Mar Y Mar,37.62666687388289,-122.4111108,3.3,191,"602 San Mateo Ave San Bruno, CA 94066",16502250516,"bars, mexican, nightlife, seafood, Mexican seafood, ceviche, mariscos plates, casual dining, San Bruno"
+1310,Marina Vista Park,37.610734,-122.394984,5,1,"Spruce Ave Bay St Millbrae, CA 94030",,parks
+1312,Mariscos El Pariente,37.6169718,-122.4074698,4.7,142,"160 El Camino Real San Bruno, CA 94066",14152335175,"mexican, seafood, seafood restaurant, Mexican cuisine, fresh fish dishes, San Bruno"
+1315,Marque Foods,37.647409,-122.393986,5,2,"322 Littlefield Ave South San Francisco, CA 94080",16505834114,"chocolate, desserts"
+1317,Max's Restaurant - South San Francisco,37.65698,-122.43791,3,538,"1155 El Camino Real South San Francisco, CA 94080",16508726748,"breakfast_brunch, seafood"
+1318,Maximum,37.621517,-122.41642,0,0,"1092 Jenevein Ave San Bruno, CA 94066",,"newamerican, nightclub, Latin music, nightlife venue, DJ events, San Bruno"
+1319,Maya & Jonalyn's Kitchen,37.63081094,-122.437119,5,33,"San Bruno, CA 94066",14156366485,"desserts, Filipino food, homestyle cooking, breakfast and lunch, San Bruno"
+1320,Mazra,37.62957,-122.41554,4.7,2300,"504 San Bruno Ave W San Bruno, CA 94066",16502259027,"bbq, Mediterranean food, shawarma, family-style dining, healthy meals, San Bruno"
+1321,McDonald's,37.64398054,-122.4036431,2,213,"381 S Airport Blvd South San Francisco, CA 94080",16508716018,"burgers, coffee"
+1322,McNee Ranch State Park,37.55981972,-122.5133514,4.5,92,"Montara, CA 94044",16507268819,hiking
+1325,Me So Hungry Too,37.6430054,-122.4260113,4.4,43,"130 Northwood Dr South San Francisco, CA 94080",16503920126,burgers
+1326,Me So Hungry Too Food Truck,37.654,-122.41307,4.1,65,"San Francisco, CA 94080",14155802869,burgers
+1330,Meadows Park,37.60183948,-122.4170317,4,4,"Lynnwood Ln Millbrae, CA 94030",16502592334,parks
+1331,Melendez Boxing and Personal Training,37.611343,-122.402,5,19,"1470 El Camino Real San Bruno, CA 94066",16503075502,"fitness, boxing gym, personal training, fitness classes, strength training, San Bruno, Outdoor Activities"
+1340,Merck Cafe,37.65484,-122.39868,4,1,"213 E Grand Ave South San Francisco, CA 94080",,cafes
+1341,Mijouri Sushi Bune,37.639617736692784,-122.4207209,3.4,298,"1230 El Camino Real Ste B San Bruno, CA 94066",16505830294,"japanese, sushi, Japanese restaurant, sushi train, traditional rolls, casual dining, San Bruno"
+1342,Mike & Ken's Deli,37.6628696,-122.40166,4.5,240,"1031 Airport Blvd South San Francisco, CA 94080",16505883659,"breakfast_brunch, sandwiches"
+1343,Milagra Ridge,37.63514,-122.47413,4.4,68,"641 Sharp Park Rd Pacifica, CA 94044",14155614700,hiking
+1345,Milk Tea Lab,37.6492971,-122.4296926,4.1,319,"630 El Camino Real South San Francisco, CA 94080",16507458612,bubbletea
+1346,Millbrae Community Center,37.600282380510265,-122.4006321,4.8,5,"477 Lincoln Cir Millbrae, CA 94030",16502592360,"parks, playgrounds"
+1347,Millbrae Karaoke House,37.60963,-122.400392,4,134,"1366 El Camino Real Millbrae, CA 94030",16505896070,karaoke
+1348,Millbrae Kebabs And Gyros,37.6037387,-122.3957604,4.2,506,"675 Broadway Millbrae, CA 94030",16502318092,mediterranean
+1349,Millbrae Pancake House,37.60842867342439,-122.4003122,3.9,3182,"1301 El Camino Real Millbrae, CA 94030",16505892080,breakfast_brunch
+1350,Millbrae Skate Park,37.596231,-122.39152,4.4,5,"451 Millbrae Ave Millbrae, CA 94030",,parks
+1351,Mills Estates Park,37.5870057,-122.3987669,3,1,"Sebastian Dr Millbrae, CA 94030",,parks
+1352,Mimi Learning,37.612922,-122.4044847,4.5,19,"1635 El Camino Real Millbrae, CA 94030",16505576888,artclasses
+1353,Minari,37.6229,-122.41156,4.3,213,"449 San Mateo Ave San Bruno, CA 94066",16505885559,"korean, Korean restaurant, authentic cuisine, tofu soup, BBQ platters, San Bruno"
+1354,Modern Eats,37.60189464721353,-122.3927978,4.5,32,"414 Broadway Millbrae, CA 94030",16506975520,pizza
+1355,Mollie Stone's,37.626435,-122.427117,3.1,253,"22 Bayhill Shopping Ctr San Bruno, CA 94066",16508738075,"coffee, grocery store, organic produce, deli counter, local chain, San Bruno"
+1356,Mom's Tofu House,37.599717,-122.389337,3.7,242,"133 El Camino Real Millbrae, CA 94030",16502596430,"bbq, korean"
+1357,Mom‚Äôs Tofu,37.65567107264459,-122.4131455,4.3,296,"415 Grand Ave South San Francisco, CA 94080",16503920960,"bbq, korean"
+1358,Monte Verde Park,37.6249,-122.41461,3.5,4,"567 El Camino Real San Bruno, CA 94066",,"parks, public park, playground, green space, family-friendly, San Bruno, nature, family"
+1359,Mori Point,37.62002104822368,-122.4985456,4.7,318,"775 Bradford Way Pacifica, CA 94044",14155614323,"beaches, hiking"
+1360,Mosta Grove,37.59348421026549,-122.3959408,0,0,"935 Millbrae Ave Millbrae, CA 94030",,parks
+1361,Mountain Mike's Pizza,37.609968,-122.401672,4.7,336,"1395 El Camino Real Millbrae, CA 94030",16505888550,pizza
+1362,"Mr. Carey! -Ayurveda, Yoga & Thai Massage-",37.65365626,-122.4197083,4.6,122,"South San Francisco, CA 94080",14153147657,"fitness, yoga"
+1363,MrBeast Burger,37.625303,-122.411584,0,0,"551 San Mateo Ave San Bruno, CA 94066",18772327898,"burgers, virtual kitchen, burgers and fries, online delivery only, San Bruno"
+1364,Naan Point,37.62575,-122.426,4.6,337,"851 Cherry Ave Ste 6 San Bruno, CA 94066",16506364447,"ind pak, Indian food, curry, naan and tandoori, casual dining, San Bruno"
+1365,Naked Fish - Millbrae,37.6046994,-122.3972595,3,484,"979 Broadway Ste 100 Millbrae, CA 94030",16506926288,"japanese, sushi"
+1366,NanHai Art,37.602851,-122.393723,0,0,"510 Broadway Ste 301 Millbrae, CA 94030",16502592100,galleries
+1367,NATION'S,37.65333296626342,-122.4331421,3.6,73,"925 El Camino Real South San Francisco, CA 94080",14159070108,"breakfast_brunch, burgers, desserts"
+1368,New Broadway Bistro,37.601075,-122.3924429,4.1,70,"349 Broadway Millbrae, CA 94030",16506923378,chinese
+1369,New China Restaurant,37.61227,-122.40379,4.1,133,"1595 El Camino Real Millbrae, CA 94030",16504818888,chinese
+1370,New Dragon Garden,37.64217,-122.42647,3.8,66,"136 Hazelwood Dr South San Francisco, CA 94080",16505886858,chinese
+1371,New SF Asian Pearl Peninsula,37.61334,-122.40485,2.9,791,"1671 El Camino Real Millbrae, CA 94030",16506168288,"chinese, seafood"
+1372,New York Pizza,37.630714,-122.406496,3.7,243,"700 San Bruno Ave E San Bruno, CA 94066",16508769999,"pizza, New York-style pizza, takeout and delivery, casual eats, San Bruno"
+1373,Newell's Cocktail Lounge,37.62433,-122.41151,3.5,57,"497 San Mateo Ave San Bruno, CA 94066",16505830440,"cocktailbars, dive bar, cocktails, local hangout, late night drinks, San Bruno"
+1375,Ng's Cooking,37.645316,-122.452015,3.1,263,"2268 Westborough Blvd Ste 303 South San Francisco, CA 94080",16505898801,chinese
+1376,Nick The Greek,37.66262,-122.39676,3.6,115,"101 Oyster Point Blvd Ste 104 South San Francisco, CA 94080",16505343382,mediterranean
+1377,Nick's Seafood Restaurant,37.60909624258056,-122.4969483,3.7,1783,"100 Rockaway Beach Ave Pacifica, CA 94044",16503593900,lounges
+1378,Nina's Home Bakery,37.626602,-122.417837,5,10,"San Bruno, CA 94066",15109436773,"bakeries, home bakery, custom cakes, sweet treats, local business, San Bruno"
+1382,Ninja Sushi & Tofu,37.628002,-122.41154,3.6,257,"681 San Mateo Ave San Bruno, CA 94066",16505833090,"korean, sushi, sushi rolls, tofu dishes, Japanese-Korean fusion, casual dining"
+1384,Noodleosophy,37.59810958,-122.3863275,3.6,34,"102 S El Camino Real Millbrae, CA 94030",16502312682,japanese
+1385,Noori - San Bruno,37.62715,-122.41161,3.8,672,"637 San Mateo Ave San Bruno, CA 94066",16505894279,"ind pak,Pakistani cuisine, halal food, kebabs and curry, family restaurant"
+1386,Nothing Bundt Cakes,37.5972747,-122.3855031,3.5,224,"140 SEl Camino Real Millbrae, CA 94030",16505529625,"bakeries, desserts"
+1393,O' Sole Mio Restaurant,37.60143,-122.39203,3.9,482,"352 Broadway Millbrae, CA 94030",16506927905,"italian, pizza"
+1394,Ocean Palace,37.62745,-122.41656,3.1,145,"711 Camino Plz San Bruno, CA 94066",16508732862,"chinese, Chinese seafood, dim sum, banquet dining, traditional flavors"
+1419,Ocean Queen USA,37.6384201,-122.4070435,2,3,"330 Shaw Rd South San Francisco, CA 94080",16508716816,seafood
+1420,Off the Grid - Tanforan,37.63633,-122.418035,0,0,"1150 El Camino Real San Bruno, CA 94066",14153395888,"burgers, food trucks, rotating vendors, outdoor dining event, San Bruno"
+1424,Olivas Mexican food,37.64980457815911,-122.3932203,4.8,18,"400 Littlefield Av South San Francisco, CA 94080",16508343371,mexican
+1426,Olivia's Tanghulu,37.60094,-122.392216,5,4,"315 Broadway Millbrae, CA 94030",19253076582,desserts
+1428,OMG Oh Mmmy Goodies,37.6276207,-122.4256058,3.9,7,"San Bruno, CA 94066",16507351219,"desserts, desserts, candy shop, specialty sweets, nostalgic snacks, San Bruno"
+1432,One Love Cafe,37.62413576497491,-122.4110888,4.4,154,"486 San Mateo Ave San Bruno, CA 94066",16506364125,"breakfast brunch, cafes, juicebars, Caribbean food, jerk chicken, island flavors, laid-back vibe, San Bruno"
+1433,One Martial Arts,37.604682,-122.397254,4.8,64,"979 Broadway Ste 116 Millbrae, CA 94030",16505130533,fitness
+1434,One Piece Sushi,37.6136034,-122.4053429,3.9,563,"108 Park Pl Millbrae, CA 94030",16506364105,"japanese, sushi"
+1490,Orange Memorial Park,37.65315216,-122.4269686,4.2,82,"35 W Orange Ave South San Francisco, CA 94080",16508293800,"parks, playgrounds"
+1493,Orange Memorial Park Recreation Building,37.6557311,-122.4270328,4.5,4,"781 Tennis Dr South San Francisco, CA 94080",16508778679,venues
+1495,Orange Tree Frozen Yogurt,37.63692,-122.41902,0,0,"1150 El Camino Real San Bruno, CA 94066",14157696435,"icecream, frozen yogurt, self-serve, toppings bar, dessert shop, San Bruno, family fun"
+1496,Orangetheory Fitness South San Francisco,37.66263126,-122.3966757,4.6,49,"101 Oyster Point Blvd South San Francisco, CA 94080",16508262009,fitness
+1500,Oyster Point Yacht Club,37.6616357,-122.3760047,3.6,8,"911 Marina Blvd South San Francisco, CA 94080",16508735166,venues
+1501,Pacific Coast Baking,37.63645,-122.40675,4.7,3,"360 Shaw Rd South San Francisco, CA 94080",16505888400,bakeries
+1502,Pacific Heights Park,37.628884,-122.453326,2.7,7,"3080 Longview St San Bruno, CA 94066",,"parks, hillside park, scenic views, walking trails, outdoor recreation, nature, activity"
+1504,Pacifica Pier,37.6332326,-122.4943749,4.1,159,"2100 Beach Blvd Pacifica, CA 94044",16507383760,beaches
+1505,Pacifica State Beach,37.59890216177086,-122.5019464,4.2,232,"5100 Cabrillo Hwy Pacifica, CA 94044",16507387381,beaches
+1509,Panaderia Eduardo,37.63249,-122.40539,5,2,"890 7th Ave San Bruno, CA 94066",16506860799,"bakeries, Mexican bakery, pan dulce, sweet bread, local favorite, San Bruno"
+1512,Panaderia Mexico,37.63621978531726,-122.4117219,5,1,"1071 San Mateo Ave San Bruno, CA 94066",15106927313,"bakeries, desserts, Mexican bakery, traditional pastries, cakes and breads, San Bruno"
+1513,Panaderia Y Mercado Hernandez,37.65586218,-122.4120424,3.8,96,"390 Grand Ave South San Francisco, CA 94080",16505889738,bakeries
+1514,Panera Bread,37.600604948917294,-122.3818597,3.1,522,"320 Adrian Rd Millbrae, CA 94030",16506923100,sandwiches
+1516,Papa Joe's Italian Dinners,37.6567907,-122.409728,3.1,18,"415 Linden Ave South San Francisco, CA 94080",16505837188,"italian, pizza"
+1517,Papa Johns Pizza,37.6290889,-122.4115233,2.8,156,"735 San Mateo Ave San Bruno, CA 94066",16505837272,"pizza, pizza delivery, takeout, national chain, fast food, San Bruno"
+1523,Paradise Hookah Lounge,37.626078,-122.411388,4.5,256,"591 San Mateo Ave San Bruno, CA 94066",16507630751,"bars, hookah bars, lounges, nightlife, hookah lounge, flavored tobacco, chill vibe, San Bruno"
+1524,Paradise Valley Park,37.66425579,-122.4102266,3,1,"Hillside Blvd & School Ave South San Francisco, CA 94080",,parks
+1529,Paris Baguette,37.644952,-122.452758,3.1,743,"2278 Westborough Blvd South San Francisco, CA 94080",16509520404,"bakeries, coffee"
+1534,Pasqually's Pizza & Wings,37.62513114972721,-122.4336077,2,1,"San Bruno, CA 94066",16502449690,"pizza, pizza and wings, delivery only, ghost kitchen, San Bruno"
+1536,Peak Provisions,37.65595,-122.39142,4,4,"460 Forbes Blvd South San Francisco, CA 94080",,cafes
+1538,Pedro Point Headlands,37.60546265220782,-122.4810358,4.2,25,"Pacifica, CA 94044",16503593275,hiking
+1539,Peet's Coffee,37.60155,-122.3928,3.6,180,"401 Broadway Millbrae, CA 94030",16506480231,coffee
+1542,Personal Best,37.61491131,-122.4052048,5,11,"Emalita Ct San Bruno, CA 94066",16502699969,"fitness, fitness training, personal coaching, gym sessions, private studio, San Bruno"
+1551,Peter's Cafe,37.59883381230363,-122.3873665,3.7,567,"10 El Camino Real Millbrae, CA 94030",16506972434,"breakfast_brunch, cafes"
+1553,Philz Coffee,37.64414734586218,-122.4522315,4.1,1164,"2248 Westborough Blvd Ste 603 South San Francisco, CA 94080",16508292435,"breakfast_brunch, coffee"
+1619,Pho de Nguyen,37.6262,-122.41102,4.2,760,"586-A San Mateo Ave San Bruno, CA 94066",16508731388,"Vietnamese cuisine, pho, rice dishes, family restaurant, San Bruno, vietnamese"
+1625,Pho Saigon,37.64451177,-122.4533404,2.7,885,"2288 Westborough Blvd South San Francisco, CA 94080",16508722471,vietnamese
+1626,Physique Magnifique,37.65538,-122.41233,4.7,65,"387 Grand Ave South San Francisco, CA 94080",16505838648,fitness
+1627,Pinot's Palette,37.625104,-122.411483,5,35,"533 San Mateo Ave San Bruno, CA 94066",16503928014,"artclasses, arts, paint and sip, art studio, group events, wine nights, creative fun, San Bruno, culture"
+1629,Pit Stop Boba Shop,37.64351,-122.45347,4.3,511,"2300 Westborough Blvd South San Francisco, CA 94080",16509524449,"bubbletea, coffee, juicebars"
+1632,Pita Gyros,37.637956,-122.417793,3.7,80,"1150 El Camino Real San Bruno, CA 94066",16506364183,"mediterranean, pizza, Greek food, gyros, Mediterranean cuisine, fast casual, San Bruno"
+1638,Pizza Hut,37.64717684243004,-122.429007,1.9,119,"553 El Camino Real South San Francisco, CA 94080",16505834500,pizza
+1639,Pizza King,37.658157,-122.408913,3.2,5,"600 linden Ave Ste A South San Francisco, CA 94080",16502731180,pizza
+1643,Planet Fitness,37.636214234044594,-122.4188641,3.1,85,"1150 El Camino Real Unit 209 San Bruno, CA 94066",16508702700,"fitness, gym, fitness center, cardio equipment, strength training, national chain, San Bruno, activity"
+1649,Platinum Events Bay Area,37.65774,-122.41407,5,87,"San Francisco, CA 94080",14154971955,wedding_planning
+1651,Point San Bruno Park,37.6570924,-122.3781332,4.5,6,"Forbes Blvd & Dna Way South San Francisco, CA 94080",,parks
+1655,Poke One,37.639579,-122.420786,4,369,"1230 El Camino Real Ste C San Bruno, CA 94066",16506348728,"japanese, seafood, poke bowls, Hawaiian cuisine, fresh fish, build-your-own, San Bruno"
+1665,Porridge & Things,37.600076,-122.391195,3.7,199,"235 Broadway Millbrae, CA 94030",16506922992,"chinese, seafood"
+1667,PPQ Dungeness Island - Millbrae,37.60008,-122.38977,3.9,440,"195 El Camino Real Millbrae, CA 94030",16506866126,"seafood, vietnamese"
+1668,Precision Fitness,37.59908676,-122.4056778,4.9,19,"516 Richmond Dr Millbrae, CA 94030",16502011179,fitness
+1673,Proposition Chicken at Local Kitchens,37.62680989362565,-122.425534,2.9,10,"851 Cherry Ave Ste 2 San Bruno, CA 94066",14159928206,"sandwiches, fried chicken, rotisserie chicken, food hall vendor, San Bruno"
+1674,Ps Business Parks,37.64981003,-122.408381,1.2,9,"11 Airport Blvd Ste 206 South San Francisco, CA 94080",16508710212,parks
+1676,Quickly,37.63893992,-122.4211321,2.6,274,"1212-A El Camino Real San Bruno, CA 94066",16508739800,"bubbletea, juicebars, bubble tea, Asian drinks, snacks, dessert drinks, San Bruno"
+1678,R Squared Confections,37.62392044067383,-122.4252167,0,0,"San Bruno, CA 94066",,"desserts, handmade chocolates, artisanal candy, dessert gifts, San Bruno"
+1681,Racetrack Caf√©,37.63720303,-122.4173396,4,2,"1150 El Camino Real San Bruno, CA 94066",16508732000,cafes
+1682,Raison D'etre A Bakery,37.64878,-122.41765,4.6,21,"179 Starlite St South San Francisco, CA 94080",16509528889,bakeries
+1686,Rancho Las Trancas,37.65192,-122.43119,3.8,224,"792 El Camino Real South San Francisco, CA 94080",16504384394,mexican
+1687,Raymond's Sourdough Bread,37.6494842,-122.4181014,4.3,285,"151 S Spruce Ave South San Francisco, CA 94080",16505894572,bakeries
+1690,Red Lobster,37.638751,-122.421936,2.8,854,"1210 El Camino Real San Bruno, CA 94066",16505833244,"seafood, seafood chain, lobster and shrimp, family dining, American cuisine"
+1691,Red Ribbon Bakeshop,37.64326543748518,-122.4634376,2.7,60,"3545 Callan Blvd South San Francisco, CA 94080",16506340841,"bakeries, desserts"
+1692,Red Robin Gourmet Burgers and Brews,37.63907,-122.41929,2.7,1164,"1274 El Camino Real San Bruno, CA 94066",16505884600,"burgers, burgers and fries, bottomless sides, full bar, casual dining"
+1693,Resounding Flow,37.626601750000006,-122.4178372,0,0,"San Bruno, CA 94066",16503074229,"fitness, yoga, culture, sound healing, energy work, holistic wellness, vibrational therapy"
+1703,Rice Monster,37.59813,-122.38626,4.1,53,"102 S El Camino Real Millbrae, CA 94030",,chinese
+1708,RicoPan LatinPastries,37.62523007,-122.4109501,4.3,85,"532 San Mateo Ave San Bruno, CA 94066",16507716855,"bakeries, Latin American pastries, cakes, sweet breads, dessert shop"
+1719,Riposo,37.65294547,-122.396674,4.7,16,"256 E Grand Ave South San Francisco, CA 94080",16507631619,"italian, pizza, sandwiches"
+1726,Rise SSF,37.655712,-122.408857,4.9,14,"215 Miller Ave South San Francisco, CA 94080",,"fitness, yoga"
+1732,Ristorante Buon Gusto,37.655244,-122.409062,4,1012,"224 Grand Ave South San Francisco, CA 94080",16507429777,"bars, italian, nightlife"
+1742,Rita's Sweet Exchange,37.626601750000006,-122.4178372,0,0,"San Bruno, CA 94066",16502572162,"desserts, candy shop, vintage treats, imported snacks, nostalgic sweets"
+1777,Rockaway Beach,37.60983783,-122.497091,4.5,130,"Rockaway Beach Ave Pacifica, CA 94044",16507387381,beaches
+1822,Rockoto Peruvian cuisine,37.6545022,-122.410557,4.4,147,"207 Linden Ave South San Francisco, CA 94080",16508733434,"bars, cocktailbars, nightlife, seafood"
+1925,Rolling Pin Donuts,37.62932,-122.41455,4.1,957,"429 San Bruno Ave W San Bruno, CA 94066",16505899687,"coffee, desserts, donuts, donuts, 24-hour bakery, local favorite, classic sweets"
+2005,Roma Deli,37.62214,-122.41094,4.3,500,"424 San Mateo Ave San Bruno, CA 94066",16505892360,"italian, sandwiches, Italian deli, sandwiches, imported goods, grocery and takeout"
+2302,Rotary Park,37.59410383,-122.3962688,3.7,3,"South Ashton Ave And Millbrae Ave Millbrae, CA 94030",16502592334,"parks, playgrounds"
+2391,Round Table Pizza,37.62671,-122.42564,3.9,102,"851 Cherry Ave San Bruno, CA 94066",16506340112,"pizza, pizza chain, dine-in and delivery, family-friendly, salad bar"
+2392,Royal Feast,37.59989557,-122.3883319,4,288,"148 El Camino Real Millbrae, CA 94030",16506923388,chinese
+2393,Royal Pin Donuts,37.64714,-122.42898,3.6,154,"551 El Camino Real South San Francisco, CA 94080",16509523955,donuts
+2394,Ruddy's Taco Truck,37.63044,-122.418184,3.7,211,"899 El Camino Real San Bruno, CA 94066",16507710410,"mexican, Mexican street food, tacos, mobile vendor, late night eats"
+2395,Russ Gold Drum Lessons,37.64253037,-122.4276282,4.9,15,"162 Northwood Dr South San Francisco, CA 94080",14152973320,theater
+2400,Saap Thai Kitchen,37.656856,-122.409723,3.8,90,"427 Linden Ave South San Francisco, CA 94080",16503835326,vegetarian
+2401,SAJJ Mediterranean,37.62660240136236,-122.4268363,4.2,155,"851 Cherry Ave Ste 15 San Bruno, CA 94066",16506364423,"Mediterranean food, shawarma bowls, fast casual, halal options, San Bruno"
+2411,Sam's Food Market,37.6324513,-122.4115449,4.7,56,"899 San Mateo Ave San Bruno, CA 94066",16508731470,"sandwiches, convenience store, snacks and drinks, neighborhood market, San Bruno"
+2417,San Andreas Trail,37.62653,-122.42771,3.7,20,"San Bruno, CA 94066",,"hiking, hiking trail, biking path, scenic views, outdoor recreation, San Bruno, nature"
+2429,San Bruno City Park,37.6210696,-122.4297369,4.3,53,"251 City Pkwy San Bruno, CA 94066",,"parks, playgrounds, nature, public park, sports fields, picnic areas, family activities, San Bruno"
+2438,San Bruno Senior Center,37.61374,-122.41968,5,5,"1555 Crystal Springs Rd San Bruno, CA 94066",16506167150,"venues, senior programs, community center, social events, wellness classes, San Bruno"
+2442,San Francisco Green Screen,37.65217977396622,-122.41394,0,0,"432 North Canal St Ste 12 South San Francisco, CA 94066",14153208465,venues
+2443,San Francisco Wine School,37.655523,-122.413143,4.7,15,"415 Grand Ave Ste 301 South San Francisco, CA 94080",16507631324,"bars, tastingclasses"
+2444,San Froyo,37.63659224113715,-122.4189903,4,23,"1150 El Camino Real San Bruno, CA 94066",16507100248,"icecream, frozen yogurt, self-serve, dessert toppings, family-friendly, San Bruno"
+2446,Sarku Japan,37.637224302577536,-122.4175875,2.6,144,"1150 El Camino Real Ste 184 San Bruno, CA 94066",16508731636,"japanese, sushi, Japanese cuisine, quick-service sushi, teriyaki bowls, food court, San Bruno"
+2452,See's Candies,37.64322715,-122.4247288,4.3,130,"210 El Camino Real South San Francisco, CA 94080",14153495894,chocolate
+2453,Sellick Park,37.642258,-122.447715,4,22,"Appian Way South San Francisco, CA 94080",16508293800,parks
+2454,Seniore's Pizza,37.62721368591506,-122.4163869,3.5,469,"730 Kains Ave San Bruno, CA 94066",16509524100,"pizza by the slice, delivery, local favorite, casual dining, San Bruno"
+2458,Seoul Kalbi Korean BBQ,37.6132,-122.40388,3.8,1213,"1610 El Camino Real San Bruno, CA 94066",16505830702,"bbq, Korean BBQ, grilled meats, traditional sides, group dining, San Bruno"
+2465,SF Actors Workshop / The Young Actor's Workshop,37.62384033,-122.4122314,5,12,"535 Sylvan Ave Fl 2 San Bruno, CA 94066",13108694993,"arts, theater, acting classes, youth theater, performing arts, drama training, San Bruno"
+2470,Shabu Shabu,37.60468,-122.39725,0,0,"979 Boardway St Ste 100 Millbrae, CA 94030",,japanese
+2471,Shabu Shack,37.65507677,-122.4086362,4.3,160,"200 Grand Ave South San Francisco, CA 94080",16503798043,japanese
+2478,Shari's Cafe and Pies,37.630767,-122.4367967,3,575,"2010 Rollingwood Dr San Bruno, CA 94066",16505894819,"breakfast brunch, diner, comfort food, pie shop, breakfast and dinner, San Bruno"
+2484,Sharp Park Beach,37.6334604,-122.4942138,4.5,12,"Beach Blvd Pacifica, CA 94044",,beaches
+2485,Sidewalk Juice-Millbrae,37.60293652980722,-122.3947942,4.6,38,"525 Broadway Millbrae, CA 94030",,juicebars
+2607,Sign Hill Park,37.66617643035886,-122.4187649,3.9,58,"650 Poplar Ave South San Francisco, CA 94080",,parks
+2621,Sister Cities Park,37.6533501,-122.4255823,3,1,"100 W Orange Ave South San Francisco, CA 94080",,parks
+2670,Sixteen Mile House,37.602275,-122.393082,3.8,512,"448 Broadway Millbrae, CA 94030",16506976118,"bars, cocktailbars, nightlife, seafood, steak"
+2686,Sky Dragon,37.64954,-122.43075,3.9,485,"117 Southwood Ctr South San Francisco, CA 94080",16505837094,chinese
+2687,Skyline Ceramics,37.62485,-122.42681,4.8,18,"San Bruno, CA 94066",16505801166,"artclasses, pottery classes, ceramics studio, art workshops, creative learning"
+2704,Skyline College Cafe,37.63008411,-122.4684071,1,2,"3300 College Dr Skyline College San Bruno, CA 94066",16507384246,"cafes, on-campus cafe, student dining, snacks and drinks, Skyline College"
+2773,Skyline College Cafeteria,37.63214492,-122.4612712,1.7,15,"3300 College Dr San Bruno, CA 94066",16507384100,"cafes, college cafeteria, meal options, campus dining hall, San Bruno"
+2774,Smasherz,37.60948631768882,-122.4002371,4.4,53,"1340 El Camino Real Millbrae, CA 94030",14155150485,"burgers, mexican"
+2775,Smiling BBQ,37.61729370484096,-122.4086643,3,127,"189 El Camino Real San Bruno, CA 94066",16508880058,"bbq, Korean BBQ, grilled meats, spicy dishes, casual dining, San Bruno"
+2776,Social Eatery,37.59813047200883,-122.3863747,3.7,224,"102 S El Camino Real Millbrae, CA 94030",16502312682,"bubbletea, japanese"
+2777,Sociedad Mutualista Mexicana Morelos,37.6557004,-122.4084259,4,1,"209 Miller Ave South San Francisco, CA 94080",16508733708,venues
+2778,Societea Teahouse & Eatery,37.622841,-122.410957,4.1,378,"446 San Mateo Ave San Bruno, CA 94066",16506364494,"bubble tea, Asian fusion food, cozy cafe, boba drinks, San Bruno"
+2779,Society of Western Artists,37.62503433,-122.4114609,4,2,"527 San Mateo Ave San Bruno, CA 94066",16502259250,"art gallery, local artists, exhibitions, painting workshops, San Bruno"
+2781,Sofra Grill,37.64226,-122.42648,4.7,285,"132 Hazelwood Dr South San Francisco, CA 94080",16507631156,"bbq, botanicalgardens, eventspaces, livemusic, mediterranean, minigolf, party, restaurants, smoothies, socialclubs, sportsclubs"
+2783,Solis Boxing,37.6487,-122.39495,5,33,"347 Littlefield Ave South San Francisco, CA 94080",16509225418,fitness
+2785,SongStars Productions,37.58709856,-122.4809074,4.7,3,"Pacifica, CA 94044",16503553646,karaoke
+2786,Sophia,37.65763,-122.39746,0,0,"670 Gateway Blvd South San Francisco, CA 94080",16267423487,korean
+2788,South San Francisco Civic Ballet,37.6555901,-122.4365921,5,2,"33 Arroyo Dr South San Francisco, CA 94080",16508293800,opera
+2789,South San Francisco Conference Center,37.647501990662754,-122.4044494,3.6,41,"255 S Airport Blvd South San Francisco, CA 94080",16508778787,venues
+2790,South San Francisco Parks and Recreation Department,37.65616344827821,-122.4350731,4,8,"901 Civic Campus Way South San Francisco, CA 94080",16508293800,parks
+2791,South San Francisco Women's Club,37.6561786,-122.4154242,2.5,2,"470 Grand Ave South San Francisco, CA 94080",16508738030,venues
+2792,Special Hainan Chicken,37.601783,-122.39205,3.9,44,"9 Hillcrest Blvd Millbrae, CA 94030",16505529031,chinese
+2793,Speedy's Pizza And Grill,37.649896,-122.430765,4.3,214,"687 El Camino Real South San Francisco, CA 94080",16508711200,"burgers, italian, pizza"
+2794,Spiral Japanese Restaurant,37.6273317,-122.4163594,3.1,414,"705 Camino Plz San Bruno, CA 94066",16508710177,"japanese, sushi rolls, sashimi, traditional Japanese cuisine, dine-in"
+2795,Spruce Cafe,37.64757,-122.42035,4,629,"230 S Spruce Ave South San Francisco, CA 94080",16506348438,"cafes, sandwiches"
+2796,Spur Trail,37.5989266,-122.405174,2.7,7,"Geraldine Dr & Lincoln Cir Millbrae, CA 94030",,parks
+2797,Square Pie Guys at Local Kitchens,37.62681201795361,-122.425534,4,9,"851 Cherry Ave Ste 2 San Bruno, CA 94066",14159928206,"pizza, Detroit-style pizza, food hall vendor, cheesy crusts, San Bruno"
+2798,Starbird Chicken,37.654834,-122.433332,4.1,187,"988 El Camino Real Ste 2 South San Francisco, CA 94080",16503000412,sandwiches
+2799,Starbucks,37.625788,-122.426066,3.2,273,"851 Cherry Ave Bayhill Shopping Center San Bruno, CA 94066",16506159471,"coffee, coffee shop, espresso drinks, national chain cafe, light snacks"
+2800,Steak on The Stick,37.654,-122.41307,0,0,"South San Francisco, CA 94080",19099698106,bbq
+2801,Stick & Steam,37.60033,-122.38266,3.8,499,"350 Adrian Rd Millbrae, CA 94030",16502399240,chinese
+2802,Subculture Deli,37.6496799,-122.41801,4.5,307,"151 S Spruce Ave South San Francisco, CA 94080",16507456270,sandwiches
+2803,Sugandh Indian Restaurant & Bar,37.60099955692165,-122.3923186,4.4,579,"333 Broadway Millbrae, CA 94030",16507770907,"gluten_free, indpak, vegan"
+2804,Sugarcane HQ,37.626167370396566,-122.4110437,4.9,138,"586 San Mateo Ave Ste A San Bruno, CA 94066",,"juicebars, Vietnamese desserts, che, pandan cakes, sweet treats, San Bruno"
+2805,Super Crown Catering,37.64802,-122.41096,4.6,14,"1381 Lowrie Ave South San Francisco, CA 94080",16508731939,sandwiches
+2806,Sushi House,37.626067,-122.411154,3.3,518,"576 San Mateo Ave San Bruno, CA 94066",16508716190,"sushi and sashimi, Japanese cuisine, casual and cozy spot, San Bruno, japanese, sushi"
+2807,Sushi Kei,37.60165147,-122.3928324,3.6,231,"407 Broadway Millbrae, CA 94030",16506920100,"japanese, sushi"
+2808,Sushi Robotics,37.6649127,-122.3845482,0,0,"379 Oyster Point Blvd South San Francisco, CA 94080",16507941411,sushi
+2809,Suzanne's Cake & Pastry,37.60116,-122.3917,3.9,308,"320 Broadway Millbrae, CA 94030",16506974713,bakeries
+2810,Sweeney Ridge,37.61968978,-122.4541853,4.3,193,"3660 Sneath Ln San Bruno, CA 94044",14155614323,"hiking, parks, ridge trail, panoramic views, hiking, nature preserve, outdoor activity, San Bruno, nature"
+2811,Sweet Connections,37.622261,-122.410946,4.6,248,"430 San Mateo Ave San Bruno, CA 94066",16505884008,"icecream, dessert cafe, Filipino treats, cakes and shakes, casual hangout, San Bruno"
+2812,Sweet Indulgence,37.600818,-122.391464,3.2,673,"298 Broadway Millbrae, CA 94030",16506972998,"desserts, icecream"
+2814,T.d.e. Wedding,37.6002194,-122.3907724,4.9,235,"216 Broadway Millbrae, CA 94030",14158138900,wedding_planning
+2815,T4,37.601183,-122.392173,3.3,351,"315 Broadway Millbrae, CA 94030",16503024755,"bubbletea, juicebars"
+2816,Table Wine,37.63558728,-122.4904345,4.8,68,"1710 Francisco Blvd Ste A Pacifica, CA 94044",16508988205,wineries
+2817,Tacos El Ranchito Truck,37.62361526,-122.4127045,3.6,50,"512 El Camino Real San Bruno, CA 94066",16502679990,"mexican, taco truck, Mexican street food, mobile vendor, casual bites, San Bruno"
+2818,Tanforan Shopping Center Kids' Play Area,37.63845804,-122.4188934,2.3,22,"1150 El Camino Real San Bruno, CA 94066",16508732001,"playgrounds, indoor play area, kids activities, mall attraction, family spot, San Bruno"
+2819,Taqueria Angelica's,37.63638134428152,-122.4214505,4.1,207,"1199 El Camino Real San Bruno, CA 94066",16508343695,"mexican, Mexican food, tacos and burritos, homestyle cooking, local favorite, San Bruno"
+2820,Taqueria Celaya,37.6582708,-122.4088649,4.2,154,"608 Linden Ave South San Francisco, CA 94080",16505881289,mexican
+2821,Taqueria La Morena,37.654138,-122.41101,3.8,510,"307 Baden Ave South San Francisco, CA 94080",16505539707,"mexican, seafood"
+2822,Taqueria Las Pencas,37.65427140954722,-122.4113695,4,309,"319 Baden Ave South San Francisco, CA 94080",16506348635,mexican
+2923,Taqueria Leon,37.625292,-122.411564,3.8,231,"551 San Mateo Ave San Bruno, CA 94066",16506364443,"mexican, Mexican restaurant, casual dining, authentic dishes, San Bruno"
+2936,Taqueria Mediterranea,37.62543563472243,-122.4312668,0,0,"San Bruno, CA 94066",16508757482,"mediterranean, Mediterranean food, fusion cuisine, tacos and bowls, quick service, San Bruno"
+2944,Taqueria Mi Durango,37.61963,-122.41062,4.2,570,"287 El Camino Real San Bruno, CA 94066",16505888810,"mexican, Mexican cuisine, grilled meats, family restaurant, traditional dishes, San Bruno"
+2965,Taqueria Mi Durango II,37.6497708,-122.4305577,4.3,103,"671 El Camino Real South San Francisco, CA 94080",14158597044,"breakfast_brunch, mexican"
+2970,Taqueria San Bruno,37.63532,-122.41174,4.5,1893,"1045 San Mateo Ave San Bruno, CA 94066",16508731752,"mexican, Mexican food, family-owned taqueria, quick bites, casual dining, San Bruno"
+2975,Taqueria Y Pizzeria,37.6567907,-122.409728,3,3,"415 Linden Ave South San Francisco, CA 94080",16508347355,"italian, pizza"
+2976,Tardio Andrew Newport Fish Company,37.65075,-122.41653,0,0,"457 S Canal St South San Francisco, CA 94080",16508777200,seafood
+2977,Taste of Four Seasons,37.614093736609775,-122.4055316,4.1,43,"1711 El Camino Real Millbrae, CA 94030",16508696222,"chinese, seafood"
+2978,Taste Restaurant,37.655623979188256,-122.4012824,3,1,"250 Gateway Blvd South San Francisco, CA 94080",,cocktailbars
+2980,Tastebuds,37.62935,-122.41589,3.1,400,"582 San Bruno Ave W San Bruno, CA 94066",16505830899,"Filipino cuisine, kamayan feasts, modern dishes, comfort food, San Bruno"
+2983,Tasty Place,37.61286910207975,-122.404403,4,316,"1625 El Camino Real Millbrae, CA 94030",16508722338,chinese
+2984,Tea Hut,37.60159723139979,-122.3913593,4.3,153,"325 El Camino Real Millbrae, CA 94030",,"bubbletea, coffee, juicebars"
+2987,Tea World,37.64341615056905,-122.4633936,4.3,16,"3573 Callan Blvd South San Francisco, CA 94080",,"bubbletea, icecream"
+3043,Teani's Italian Deli,37.65153299,-122.4311676,4.4,310,"772 El Camino Real South San Francisco, CA 94080",16505892456,"italian, sandwiches"
+3044,THAI NAKORN,37.62342,-122.41094,3.8,478,"464 San Mateo Ave San Bruno, CA 94066",16505837555,"Thai food, authentic flavors, curries and noodles, casual dining, San Bruno,  thai"
+3045,The Anecdote,37.661932778754775,-122.3842533,4.2,47,"348 Oyster Point Blvd South San Francisco, CA 94080",16506159321,newamerican
+3046,The Bistro,37.66584,-122.39458,3.2,10,"1300 Veterans Blvd South San Francisco, CA 94080",16508714100,newamerican
+3047,The Boneyard,37.6364111,-122.4063168,3.8,93,"360 Shaw Rd Ste C South San Francisco, CA 94080",16503993300,bbq
+3048,The Boys‚Äô Deli,37.629745,-122.414746,4.7,101,"428 San Bruno Ave W San Bruno, CA 94066",16506364213,"botanicalgardens, eventspaces, livemusic, minigolf, party, restaurants, sandwiches, smoothies, socialclubs, sportsclubs"
+3049,The Brass Elephant,37.6434799,-122.40448,3.4,33,"380 S Airport Blvd South San Francisco, CA 94080",16506733200,newamerican
+3050,The Cake Queen & Coffee Bar,37.6412249,-122.4258979,4.7,397,"132 Brentwood Dr South San Francisco, CA 94080",16505932253,coffee
+3051,The Fitness Tech,37.65554,-122.41025,5,70,"303 Linden Ave South San Francisco, CA 94080",,fitness
+3052,The Garden Club,37.661616,-122.438296,3.7,812,"1144 Mission Rd South San Francisco, CA 94080",16508734910,"bars, breakfast_brunch, newamerican, nightlife"
+3053,The Green Enchilada,37.6508486,-122.491707,3.8,700,"444 Manor Plz Pacifica, CA 94044",16505570841,vegan
+3055,The Hangar,37.65609498656979,-122.391408,4.6,25,"460 Forbes Blvd South San Francisco, CA 94080",,"bars, cocktailbars, coffee, nightlife, venues"
+3056,The Ice Cream Shop,37.59978541943447,-122.403043,0,0,"Millbrae, CA 94030",16507941719,icecream
+3057,The Kitchen,37.600982,-122.390884,3,1098,"279 El Camino Real Millbrae, CA 94030",16506929688,"chinese, seafood"
+3058,The Landing Restaurant + Bar,37.6469441,-122.4046211,3.6,25,"275 South Airport Blvd South San Francisco, CA 94080",16508733550,newamerican
+3059,The Lighthouse,37.6583166,-122.3983421,3.9,101,"685 Gateway Blvd South San Francisco, CA 94080",16507350236,"breakfast_brunch, coffee, newamerican"
+3061,The Night Market,37.64771684115048,-122.4204502,3.5,675,"230B S Spruce Ave South San Francisco, CA 94080",16506348388,chinese
+3062,The Roti Roll,37.65817,-122.408877,1,1,"600 Linden Ave South San Francisco, CA 94080",14158750381,sushi
+3063,The San Francisco Nest,37.658237,-122.394974,0,0,"439B Eccles Ave San Francisco, CA 94080",16507630850,musicvenues
+3064,The State Room Banquet Hall,37.65438,-122.4107251,4.4,5,"306 Baden Ave South San Francisco, CA 94080",16505884621,venues
+3066,ThermoFisher SSF Cafeteria,37.66164585,-122.3935372,5,4,"180 Oyster Point Blvd South San Francisco, CA 94080",,newamerican
+3068,Tiffany's Cake Poppery,37.62653,-122.42771,4.8,51,"San Bruno, CA 94066",16502356422,"bakeries, desserts, cake pops, dessert catering, custom treats, local bakery, San Bruno"
+3069,Tikka Taj,37.65551853979163,-122.4220699,0,0,"South San Francisco, CA 94080",14158750381,indpak
+3070,Tiny Totts Park,37.6201099,-122.44144,4,1,"Glenview Dr San Bruno, CA 94066",,"parks, playground, toddler-friendly, family park, outdoor play, San Bruno, family"
+3075,Tokyo Sushi & Bar,37.644888,-122.452908,3.5,813,"2278 Westborough Blvd Ste 201 South San Francisco, CA 94080",16508089898,"bars, japanese, nightlife, sushi"
+3076,Toto's Pizzeria & Restaurant - San Bruno,37.61387250765822,-122.4045194,4.1,1297,"1690 El Camino Real San Bruno, CA 94066",16508738686,"italian, Italian food, thin-crust pizza, family dining, local favorite, San Bruno"
+3082,TP Tea,37.60178608788007,-122.3926102,4.1,75,"400 Broadway Millbrae, CA 94030",15109362626,"bubbletea, coffee"
+3083,Traverse,37.66091483901707,-122.3944986,4.2,33,"800 Gateway Blvd South San Francisco, CA 94080",,"bars, coffee, newamerican, nightlife"
+3084,Treudan San Bruno,37.624730013921976,-122.4109331,0,0,"500 San Mateo Ave San Bruno, CA 94066",,"Chinese restaurant, dumplings and noodles, authentic flavors, San Bruno"
+3085,Tripp Distillery,37.64281296,-122.4923041,4.8,49,"1121 Palmetto Ave Pacifica, CA 94044",16507134927,distilleries
+3086,Truffle Pok√© Bar,37.66258485197265,-122.3962596,3.8,221,"101 Oyster Point Blvd Ste 107 South San Francisco, CA 94080",16507416180,sushi
+3088,Tutti Frutti Frozen Yogurt,37.63692,-122.41902,0,0,"1150 El Camino Real San Bruno, CA 94066",16505881688,"icecream, frozen yogurt, dessert shop, self-serve, toppings bar, San Bruno"
+3089,Tutu School San Bruno,37.62271,-122.41093,4.5,15,"444 San Mateo Ave San Bruno, CA 94066",16502274971,"fitness, ballet classes, toddler dance, kids performing arts, early education, culture"
+3091,Two Fifty Restaurant,37.65481022,-122.4018252,2.5,21,"250 Gateway Blvd South San Francisco, CA 94080",,newamerican
+3108,UFC GYM San Bruno,37.62796,-122.416885,3.9,82,"751 Camino Plz B San Bruno, CA 94066",16505898790,"fitness, mixed martial arts, fitness center, personal training, strength classes, culture"
+3115,Ume Tea,37.60167093,-122.3929323,4.5,209,"405 Broadway Millbrae, CA 94030",,bubbletea
+3116,Upper Cut,37.63889078424562,-122.4067117,4,188,"326 Shaw Rd S San Francisco, CA 94080",14154969916,newamerican
+3123,Urban Worldwide,37.63847224503593,-122.4110418,4.7,65,"1162 San Mateo Ave South San Francisco, CA 94080",14154948122,wedding_planning
+3124,Valerio's Tropical Bake Shop,,,2.4,74,"3573 Callan Blvd South San Francisco, CA 94080",16508781611,bakeries
+3131,Vegan Mob,37.636384502373296,-122.4214505,4,45,"1199 El Camino Real San Bruno, CA 94066",16286280281,"bbq, vegan, vegan soul food, plant-based BBQ, modern comfort food, San Bruno"
+3134,VENNU Yoga & Pilates Studio,37.60056,-122.39035,4.6,55,"227 El Camino Real Millbrae, CA 94030",16502399470,"fitness, yoga"
+3179,Vennu3,37.60332465995046,-122.3959125,0,0,"7 Civic Center Ln Millbrae, CA 94030",16502399470,yoga
+3181,Viet Time,37.63891,-122.420733,4,170,"1212 El Camino Real Unit F San Bruno, CA 94066",16506364488,"Vietnamese food, pho and banh mi, quick service, casual dining, vietnamese"
+3182,Virgin Atlantic San Francisco Clubhouse,37.61424797,-122.3884138,3.5,120,"780 S Airport Blvd San Francisco, CA 94030",,"bars, nightlife"
+3188,W XYZ Bar,37.60277,-122.37761,3.7,28,"401 East Millbrae Ave Aloft SFO Millbrae, CA 94030",16504435500,"cocktailbars, venues"
+3189,Wanpo Tea Shop,37.60619,-122.398,4.1,168,"1069 El Camino Real Millbrae, CA 94030",16282288007,"bubbletea, tea"
+3226,Wedemeyer Bakery,37.64619961,-122.3995835,4.7,28,"314 Harbor Way South San Francisco, CA 94080",16508731000,bakeries
+3315,Wendy's,37.62254,-122.41273,2.6,91,"499 El Camino Real San Bruno, CA 94066",16508733810,"burgers, fast food, burgers and fries, national chain, drive-thru, San Bruno"
+3320,West Coast Cafe,37.623477,-122.410937,4.1,436,"466 San Mateo Ave San Bruno, CA 94066",16505881912,"italian, Italian-American food, pasta and seafood, neighborhood eatery"
+3323,West Coast Dance Conservatory,37.60027242,-122.3911776,4.4,19,"237 Broadway Ave Millbrae, CA 94030",16506923597,"arts, fitness, theater"
+3324,Westborough Park,37.64384842,-122.4573975,4.1,20,"2380 Galway Dr South San Francisco, CA 94080",16508756916,"parks, playgrounds"
+3326,Whimsy Made,37.654,-122.41307,5,4,"South San Francisco, CA 94080",,desserts
+3329,White Elephant Restaurant,37.642153,-122.426646,3.8,1367,"146 Hazelwood Dr South San Francisco, CA 94080",16508738341,thai
+3333,Wildflour,37.65377010266084,-122.407644,4.8,64,"200 Airport Blvd Ste 1 South San Francisco, CA 94080",16506364341,"bakeries, bars, beerbar, nightlife, sandwiches"
+3334,Wildflour Bakeshop,37.65682983,-122.4143524,5,8,"South San Francisco, CA 94080",14154390646,desserts
+3336,Wing It,37.62669,-122.42502,3.2,9,"851 Cherry Ave Ste 15 San Bruno, CA 94066",16506364423,"chicken wings, sauces and fries, casual bites, local spot, San Bruno"
+3337,Winston Manor #3,37.6649,-122.45716,0,0,"Newman Drive And Gibbs Way South San Francisco, CA 94080",,playgrounds
+3339,Winters Tavern,37.6367,-122.49056,3.9,200,"1522 Francisco Blvd Pacifica, CA 94044",16503556162,musicvenues
+3344,Witch Crafts & Cookies,37.605463,-122.481036,0,0,"Pacifica, CA 94044",16504794027,desserts
+3345,wonderful,37.60069716,-122.3913158,4.1,1056,"270 Broadway Millbrae, CA 94030",16506518888,chinese
+3346,Yan Peninsula,37.60776,-122.39839,3.6,270,"1180 El Camino Real Millbrae, CA 94030",16505418888,chinese
+3349,Yo-Kai Express,37.6026063,-122.3779187,3.4,15,"401 E Millbrae Ave Millbrae, CA 94030",18559652439,"japanese, vietnamese"
+3351,YogaSix Oyster Point,37.6626205,-122.396762,4.9,135,"101 Oyster Point Blvd Ste 103 South San Francisco, CA 94080",16505342692,"fitness, yoga"
+3352,Yomie's Rice X Yogurt,37.61226302,-122.4038901,3.9,137,"105 Park Blvd Millbrae, CA 94030",16503920650,"bubbletea, icecream"
+3353,YOU-Camp Fitness,37.62513114972721,-122.4336077,5,6,"San Bruno, CA 94066",16504387768,"fitness, group workouts, fitness bootcamp, outdoor exercise, wellness training"
+3355,Yummy Szechuan,37.61321,-122.40476,4.1,542,"1661 El Camino Real Millbrae, CA 94030",16506159648,chinese
+3357,Z-One Kitchen,37.616642,-122.407191,3.7,59,"130 El Camino Real Ste C San Bruno, CA 94066",14155797160,"chinese, Chinese cuisine, homestyle cooking, comfort food, family-friendly"
+3358,Zap Yoga,37.6276207,-122.4256058,0,0,"San Bruno, CA 94066",16509216200,"yoga, yoga classes, wellness studio, community sessions, fitness and breathwork, culture"
+3359,Zhen Restaurant,37.599578,-122.389067,3.6,89,"121 El Camino Real Millbrae, CA 94030",16503021316,"chinese, seafood"
+3360,Zorba's Pizza,37.61148,-122.40303,4.3,763,"1567 El Camino Real Millbrae, CA 94030",16508751616,"botanicalgardens, eventspaces, italian, livemusic, minigolf, party, pizza, restaurants, smoothies, socialclubs, sportsclubs"
+3361,Zorek,37.62841,-122.41667,4.4,66,"799 El Camino Real San Bruno, CA 94066",16502649568,"bakeries, cafes, juicebars"
+3362,Zumix,37.60444892,-122.3949813,4.6,18,"711 El Camino Real Millbrae, CA 94030",16502705709,juicebars

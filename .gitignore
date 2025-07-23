@@ -1,0 +1,17 @@
+# .gitignore
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Local databases and logs
+chat_history.json
+test_log.json
+
+# Local development config
+docker-compose.yml
+
+# Secret keys - VERY IMPORTANT
+.env

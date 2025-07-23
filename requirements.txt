@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+sentence-transformers
+scikit-learn
+torch
+httpx
+python-dotenv
+geopy
+fastapi[all]
