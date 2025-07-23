@@ -1,10 +1,16 @@
+# requirements.txt
+
+# Core application
 fastapi
 uvicorn
+python-dotenv
+tinydb
+requests
+
+# Data and AI
 pandas
 sentence-transformers
-scikit-learn
-torch
-httpx
-python-dotenv
-geopy
-fastapi[all]
+weaviate-client
+
+# ✅ Install the lightweight, CPU-only version of PyTorch
+torch --extra-index-url https://download.pytorch.org/whl/cpu
