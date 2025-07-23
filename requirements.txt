@@ -1,16 +1,17 @@
 # requirements.txt
 
+# Force pip to look for CPU-only versions of PyTorch and related libraries
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+# AI / ML Libraries (torch first)
+torch
+sentence-transformers
+pandas
+weaviate-client
+
 # Core application
 fastapi
 uvicorn
 python-dotenv
 tinydb
 requests
-
-# Data and AI
-pandas
-sentence-transformers
-weaviate-client
-
-# ✅ Install the lightweight, CPU-only version of PyTorch
-torch --extra-index-url https://download.pytorch.org/whl/cpu
