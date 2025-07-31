@@ -38,6 +38,8 @@ font-size: 0.95rem;
 line-height: 1.5;
 white-space: pre-line;
 box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+/* ✅ ADD THIS LINE to fix text alignment */
+text-align: left;
 }
 
 .chat-user {

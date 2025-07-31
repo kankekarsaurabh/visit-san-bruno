@@ -4,7 +4,8 @@ import "./ChatRefiner.css";
 
 // --- Configuration ---
 // Best practice: Move hardcoded URLs to a single config spot.
-const API_BASE_URL = "http://localhost:8003";
+const API_BASE_URL = "https://spandatest-a67a23991faf.herokuapp.com";
+
 
 // --- Helper Functions ---
 // Generates a unique session ID.
